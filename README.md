@@ -76,6 +76,8 @@ Analyzed sales data for a retail company using Excel for data cleaning and Power
 - **Byte-Breakers Superstore Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Byte-Breakers-Superstores-Analysis/blob/main/README.md)(Excel & Power BI):
 Analyzed Byte-Breakers Superstore dataset (2014–2017) using Excel and Power BI to build an interactive dashboard and uncover actionable insights.
 
+-**Amazon Electronic Sales Data (2011–2014)**[View Project](https://github.com/Adenuga-Adeyemi/Amazon-Electronic-Sales-Report-2011-2014) ((Power BI)
+Analyzed Amazon Sales Performance Report from 2011-2014.
 
 ### SQL
 - **North America Sales** [View Project](https://github.com/Adenuga-Adeyemi/North-America-Retail-Sales) (SQL):
