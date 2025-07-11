@@ -158,7 +158,7 @@ Medium: https://medium.com/@pearlxta
 ---
 
 ## Fun Fact:
-I am known for my gentle disposition and my enthusiasm for networking. Meeting new people and exploring different perspectives is something I truly enjoy!
+I am known for my enthusiasm for continuous learning and networking. Meeting new people and exploring different perspectives is something I truly enjoy!
 
 ---
 
