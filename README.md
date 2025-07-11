@@ -66,15 +66,20 @@ My mission is to empower organizations and individuals to make data-driven decis
 ## Projects
 
 ### Excel
-- Healthcare Dashboard [View Project](https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md) (Excel):
+- **HealthyLife Healthcare Dashboard** [View Project](https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md) (Excel):
 Designed a comprehensive dashboard for a local clinic, integrating patient demographics and medical records. Utilized SQL for data extraction and Power BI for visualization, enabling real-time insights into patient flow and resource allocation.
 
 ### Power BI
-- RevByte Store Performance Analysis [View Project](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/README.md)(Excel & Power BI):
+- **RevByte Store Performance Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/README.md)(Excel & Power BI):
 Analyzed sales data for a retail company using Excel for data cleaning and Power BI for visual storytelling. This challenge tested my skills in data analytics and visualization, and I am thrilled to showcase the outcomes of my work.
 
-- Byte-Breakers Superstore Analysis [View Project](https://github.com/Adenuga-Adeyemi/Byte-Breakers-Superstores-Analysis/blob/main/README.md)(Excel & Power BI):
-Analyzed Byte-Breakers Superstore dataset (2014–2017) using Excel and Power BI to build an interactive dashboard and uncover actionable insights. 
+- **Byte-Breakers Superstore Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Byte-Breakers-Superstores-Analysis/blob/main/README.md)(Excel & Power BI):
+Analyzed Byte-Breakers Superstore dataset (2014–2017) using Excel and Power BI to build an interactive dashboard and uncover actionable insights.
+
+
+### SQL
+- **North America Sales** [View Project](https://github.com/Adenuga-Adeyemi/North-America-Retail-Sales) (SQL):
+North America Retail is a major retail company operating in multiple locations, offering a wide range of products to different customer groups. The company prioritizes excellent customer service and a smooth shopping experience. This project analyzes sales data to uncover key insights on profitability, business performance, products, and customer behavior.
 
 - Patient Outcomes Study (Power BI):
 Investigated the impact of new treatments in a hospital setting by querying patient outcome data with SQL and visualizing trends with Power BI, supporting improved clinical decision-making.
