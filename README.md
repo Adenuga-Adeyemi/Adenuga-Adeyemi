@@ -43,9 +43,9 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 ## Skills
 
-- Data Analysis & Visualization: Interpreting, cleaning, and modeling complex datasets; crafting impactful visualizations and dashboards.
-- Statistical Analysis: Applying statistical methods to validate findings and guide strategic planning.
-- Academic Writing & Research: Producing well-structured, evidence-based articles and reports.
+- Data Analysis & Visualization: Understand and Organize data, Interpreting, cleaning, and modeling complex datasets; crafting impactful visualizations and dashboards.
+- Statistical Analysis: Applying statistical methods to validate findings, on Hypothesis Testing using ANOVA, Paired and Unpaired t-test, Regression Analysis, Univariate Analysis, Multivariate Analysis, Factor Analysis, Covariate Analysis, Correlation, Chi-Square tests.
+- Academic Writing & Research: Well crafted reports, Thesis, Projects, Dissertations, Reflection Papers, Term Papers, Turnitin Reports (100% AI Plagiarism Checker).
 - Business Intelligence: Transforming raw data into clear business insights for operational and strategic improvements.
 - Health Informatics: Using analytics to improve healthcare delivery and patient outcomes.
 - Problem Solving: Tackling analytical challenges with creativity and precision.
@@ -60,6 +60,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 - SQL: Writing queries for data extraction, transformation, and management in relational databases.
 - Python: Data manipulation (Pandas, NumPy), visualization (Matplotlib, Seaborn), statistical analysis, and automation.
 - Tableau: Creating dashboards, data blending, and sharing interactive reports.
+- Artificial Intelligence Tools: Prompt Engineering, Create Smart Prompts, Build Assistant Logic.
 
 ---
 
