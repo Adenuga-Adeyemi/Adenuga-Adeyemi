@@ -32,12 +32,12 @@ As an academic writer, I focus on creating well-researched articles and reports.
 
 I am committed to promoting peace and positive change in my community, believing that data-driven solutions can play a crucial role in solving societal challenges.
 
-I love connecting with like-minded professionals and expanding my network. Despite being gentle in nature, I am always eager to learn from others, collaborate, and exchange ideas that inspire growth.
+I love connecting with like-minded professionals and expanding my network. I am always eager to learn from others, collaborate, and exchange ideas that inspire growth.
 
 ---
 
 ## Mission
-My mission is to empower organizations and individuals to make data-driven decisions that foster better outcomes in health, business, and community development. I am focused on leveraging analytics and academic research to uncover actionable insights, bridge gaps in understanding, and advocate for positive societal change, especially in the fields of health informatics and peace solutions.
+My mission is to empower organizations and individuals to make data-driven decisions that foster better outcomes in health, business, and community development. I am focused on leveraging analytics and academic research to uncover actionable insights, bridge gaps in understanding, and advocate for positive societal change, especially in the fields of data analytics.
 
 ---
 
