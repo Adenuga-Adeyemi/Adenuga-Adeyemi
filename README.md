@@ -71,6 +71,9 @@ Designed a comprehensive dashboard for a local clinic, integrating patient demog
 
 -**Investment Preference Analysis** [View Project]()
 Data Source: Cognifyz Technologies Data Analysis: Pivot Table (Sum, Count, Percentage) 
+I’ve also created a detailed presentation and Excel dashboard that capture these insights. If you’re interested, you can explore them here:
+📁 Excel Dashboard Link: https://lnkd.in/gTmP3q68
+📑 Presentation Slides: https://lnkd.in/gvjZ64YN
 
 ### Power BI
 -**RevByte Store Performance Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/README.md)(Excel & Power BI):
@@ -89,6 +92,10 @@ This Twitter Sentiment Analysis project focuses on analyzing public opinions exp
 This project focused on analyzing bank marketing campaigns to provide actionable insights into campaign performance and customer demographics.
 
 -**Green Data Solution Challenge**[View Project](https://github.com/Adenuga-Adeyemi/Green-Data-Solutions-Challenge/blob/main/README.md) (Power BI)
+
+-**World Population Trends** [View Project](https://github.com/Adenuga-Adeyemi/World-Population-Trends) (Power BI)
+The focus was on analyzing the global population trends across the years 2020–2023 and providing insightful visualizations and recommendations.
+
 
 -
 
