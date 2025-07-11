@@ -65,7 +65,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 ## Projects
 
-- Healthcare Dashboard (Excel):
+- Healthcare Dashboard [View Project](https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md) (Excel):
 Designed a comprehensive dashboard for a local clinic, integrating patient demographics and medical records. Utilized SQL for data extraction and Power BI for visualization, enabling real-time insights into patient flow and resource allocation.
 
 - Sales Performance Analysis (Excel & Power BI):
