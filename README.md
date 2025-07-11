@@ -76,8 +76,12 @@ Analyzed sales data for a retail company using Excel for data cleaning and Power
 -**Byte-Breakers Superstore Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Byte-Breakers-Superstores-Analysis/blob/main/README.md)(Excel & Power BI):
 Analyzed Byte-Breakers Superstore dataset (2014–2017) using Excel and Power BI to build an interactive dashboard and uncover actionable insights.
 
--**Amazon Electronic Sales Data (2011–2014)**[View Project](https://github.com/Adenuga-Adeyemi/Amazon-Electronic-Sales-Report-2011-2014) ((Power BI)
+-**Amazon Electronic Sales Data (2011–2014)**[View Project](https://github.com/Adenuga-Adeyemi/Amazon-Electronic-Sales-Report-2011-2014)(Power BI):
 Analyzed Amazon Sales Performance Report from 2011-2014.
+
+-**Twitter Sentiment Analysis**[View Project](https://github.com/Adenuga-Adeyemi/Twitter-Sentiment-Analysis/blob/main/README.md)(Power BI)
+This Twitter Sentiment Analysis project focuses on analyzing public opinions expressed on Twitter to determine the overall sentiment, whether positive, negative, or neutral, regarding a specific topic, brand, or event. The main objective is to uncover insights into how users feel about the subject matter by processing tweet data using sentiment classification techniques.
+
 
 ### SQL
 -**North America Sales** [View Project](https://github.com/Adenuga-Adeyemi/North-America-Retail-Sales) (SQL):
