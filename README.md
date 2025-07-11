@@ -69,9 +69,10 @@ My mission is to empower organizations and individuals to make data-driven decis
 -**Sales Analysis Report**[View Project](https://medium.com/@pearlxta/sales-analysis-report-fc558b5b3645)(Excel)
 Have you ever wondered what drives revenue growth in a competitive market? In today’s data-driven business environment, understanding sales trends and customer behaviors is crucial for making informed decisions. I recently conducted an in-depth sales analysis to uncover key trends, customer demographics, and product performance.
 
-
 -**HealthyLife Healthcare Dashboard** [View Project](https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md) (Excel):
 Designed a comprehensive dashboard for a local clinic, integrating patient demographics and medical records. Utilized SQL for data extraction and Power BI for visualization, enabling real-time insights into patient flow and resource allocation.
+
+-**Storybook Anaylsis** [View Project]
 
 -**Investment Preference Analysis** [View Project](Excel)
 Data Source: Cognifyz Technologies Data Analysis: Pivot Table (Sum, Count, Percentage) 
@@ -142,10 +143,14 @@ North America Retail is a major retail company operating in multiple locations, 
 The data used is from Microsoft’s AdventureWorks2022 sample database. It simulates an online transaction processing (OLTP) environment for Adventure Works Cycles, a fictional bicycle manufacturer and retailer.
 
 ### Python
--
+-**Covid 19 Cleaned Dataset Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Covid-19)
+This repository contains a cleaned dataset and analysis of COVID-19 data. The dataset has been processed for use in data analysis, visualization, and machine learning tasks. It includes information on cases, deaths, recoveries, and other relevant metrics related to the COVID-19 pandemic.
+
+-**Data Modelling**[View Project]
+
 
 ### Tableau
-- US Sales Performance Analytics (Tableau & Excel):
+-**US Sales Performance Analytics** [View Project](Tableau & Excel):
 Led a survey analytics project measuring peace-building initiatives in Lagos. Cleaned and analyzed survey data in Excel, then built Tableau dashboards to present results to local stakeholders.
 
 ---
