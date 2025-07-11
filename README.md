@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋You're Welcome to my Portfolio!</h2>
+<h2 align="left">Hi 👋You're Welcome to my Portfolio!</h2>
 
 ###
 
-<div align="center">
+<div align="left">
 </div>
 
 ###
@@ -26,7 +26,7 @@
 ---
 ## About Me
 
-I am a passionate Data Analyst and Academic Writer based in Lagos, Nigeria. I specialize in transforming complex data into clear insights that drive smarter decisions. With strong expertise in tools like Excel and Power BI, I enjoy working on projects related to Health Informatics, helping organizations and individuals understand and leverage their data for better outcomes.
+I am a passionate Data Analyst and Academic Writer based in Lagos, Nigeria. I specialize in transforming complex data into clear insights that drive smarter decisions. With expertise in tools like SPSS, Excel, SQL, Power BI, Python, and Tableau, I enjoy working on projects related to Health Informatics, helping organizations and individuals understand and leverage their data for better outcomes.
 
 As an academic writer, I focus on creating well-researched articles and reports. I have published on platforms like Medium, where I share my thoughts and findings on data analysis, health informatics, and peace advocacy.
 
@@ -35,6 +35,7 @@ I am committed to promoting peace and positive change in my community, believing
 I love connecting with like-minded professionals and expanding my network. Despite being gentle in nature, I am always eager to learn from others, collaborate, and exchange ideas that inspire growth.
 
 ---
+
 ## Mission
 My mission is to empower organizations and individuals to make data-driven decisions that foster better outcomes in health, business, and community development. I am focused on leveraging analytics and academic research to uncover actionable insights, bridge gaps in understanding, and advocate for positive societal change, especially in the fields of health informatics and peace solutions.
 
@@ -48,7 +49,9 @@ My mission is to empower organizations and individuals to make data-driven decis
 - Business Intelligence: Transforming raw data into clear business insights for operational and strategic improvements.
 - Health Informatics: Using analytics to improve healthcare delivery and patient outcomes.
 - Problem Solving: Tackling analytical challenges with creativity and precision.
+
 ---
+
 ## Tools
 
 - SPSS, Eviews, Nvivo
@@ -57,7 +60,9 @@ My mission is to empower organizations and individuals to make data-driven decis
 - SQL: Writing queries for data extraction, transformation, and management in relational databases.
 - Python: Data manipulation (Pandas, NumPy), visualization (Matplotlib, Seaborn), statistical analysis, and automation.
 - Tableau: Creating dashboards, data blending, and sharing interactive reports.
+
 ---
+
 ## Projects
 
 - Healthcare Dashboard (Excel):
@@ -74,7 +79,9 @@ Investigated the impact of new treatments in a hospital setting by querying pati
 
 - Community Peace Survey Analytics (Tableau & Excel):
 Led a survey analytics project measuring peace-building initiatives in Lagos. Cleaned and analyzed survey data in Excel, then built Tableau dashboards to present results to local stakeholders.
+
 ---
+
 ## Let’s Connect:
 
 LinkedIn: https://www.linkedin.com/in/pearladeyemi
