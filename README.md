@@ -73,8 +73,8 @@ Designed a comprehensive dashboard for a local clinic, integrating patient demog
 - RevByte Store Performance Analysis [View Project](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/README.md)(Excel & Power BI):
 Analyzed sales data for a retail company using Excel for data cleaning and Power BI for visual storytelling. This challenge tested my skills in data analytics and visualization, and I am thrilled to showcase the outcomes of my work.
 
-- Academic Research Automation ( Excel):
-Automated the collection and analysis of academic articles for a research project on public health. Used Python scripts to extract key information, and Excel to organize and summarize findings for publication.
+- Byte-Breakers Superstore Analysis [View Project](https://github.com/Adenuga-Adeyemi/Byte-Breakers-Superstores-Analysis/blob/main/README.md)(Excel & Power BI):
+Analyzed Byte-Breakers Superstore dataset (2014–2017) using Excel and Power BI to build an interactive dashboard and uncover actionable insights. 
 
 - Patient Outcomes Study (Power BI):
 Investigated the impact of new treatments in a hospital setting by querying patient outcome data with SQL and visualizing trends with Power BI, supporting improved clinical decision-making.
