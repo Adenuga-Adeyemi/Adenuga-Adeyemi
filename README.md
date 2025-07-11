@@ -72,7 +72,13 @@ Have you ever wondered what drives revenue growth in a competitive market? In to
 -**HealthyLife Healthcare Dashboard** [View Project](https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md) (Excel):
 Designed a comprehensive dashboard for a local clinic, integrating patient demographics and medical records. Utilized SQL for data extraction and Power BI for visualization, enabling real-time insights into patient flow and resource allocation.
 
--**Storybook Anaylsis** [View Project]
+-**Nigeria Economic Pulse Dashboad** [View Project](https://www.datascienceportfol.io/pearladeyemi/projects/4)
+A synopsis driven by an A.I. Simulated Dataset, where I explored Nigeria’s economic activities and demographic dynamics over five years (2020–2024). This was inspired by my quest to know the major trending sector in Nigeria at the moment.
+
+-**Storybook Anaylsis** [View Project](Excel)
+
+-**Gender Based Analysis** [View Project](Excel)
+Conducted gender trends analysis using Excel, creating interactive dashboards. Highlighted insights on gender distribution, age demographics, and financial behaviors. Proposed strategies to enhance gender diversity and financial literacy.
 
 -**Investment Preference Analysis** [View Project](Excel)
 Data Source: Cognifyz Technologies Data Analysis: Pivot Table (Sum, Count, Percentage) 
