@@ -65,11 +65,13 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 ## Projects
 
+### Excel
 - Healthcare Dashboard [View Project](https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md) (Excel):
 Designed a comprehensive dashboard for a local clinic, integrating patient demographics and medical records. Utilized SQL for data extraction and Power BI for visualization, enabling real-time insights into patient flow and resource allocation.
 
-- Sales Performance Analysis (Excel & Power BI):
-Analyzed sales data for a retail company using Excel for data cleaning and Tableau for visual storytelling. Helped the team identify top-performing products and seasonal trends, leading to a 15% increase in targeted marketing efficiency.
+### Power BI
+- RevByte Store Performance Analysis [View Project](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/README.md)(Excel & Power BI):
+Analyzed sales data for a retail company using Excel for data cleaning and Power BI for visual storytelling. This challenge tested my skills in data analytics and visualization, and I am thrilled to showcase the outcomes of my work.
 
 - Academic Research Automation ( Excel):
 Automated the collection and analysis of academic articles for a research project on public health. Used Python scripts to extract key information, and Excel to organize and summarize findings for publication.
