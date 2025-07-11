@@ -69,6 +69,9 @@ My mission is to empower organizations and individuals to make data-driven decis
 -**HealthyLife Healthcare Dashboard** [View Project](https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md) (Excel):
 Designed a comprehensive dashboard for a local clinic, integrating patient demographics and medical records. Utilized SQL for data extraction and Power BI for visualization, enabling real-time insights into patient flow and resource allocation.
 
+-**Investment Preference Analysis** [View Project]()
+Data Source: Cognifyz Technologies Data Analysis: Pivot Table (Sum, Count, Percentage) 
+
 ### Power BI
 -**RevByte Store Performance Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/README.md)(Excel & Power BI):
 Analyzed sales data for a retail company using Excel for data cleaning and Power BI for visual storytelling. This challenge tested my skills in data analytics and visualization, and I am thrilled to showcase the outcomes of my work.
