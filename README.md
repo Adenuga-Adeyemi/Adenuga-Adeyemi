@@ -103,7 +103,7 @@ This report analyzes the sales performance of the US Superstore between 2014 and
 The primary problem addressed by this report is to understand the financial performance of Citi Superstore by analyzing its sales, quantity sold, and order volumes. This understanding is crucial for informed decision-making, resource allocation, and strategic planning to optimize business operations and profitability.
 *Interact with the PBIX file*: https://app.powerbi.com/view?r=eyJrIjoiMTMwZjQ1NjYtMjg0YS00MjAyLTkyOWUtMzk0MDRhMGFjYzcyIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9
 
--**Skyline Structures Sales Metrics & Performance Review (June-August 2021)** [View Project] (https://medium.com/@pearlxta/skyline-structures-sales-metrics-performance-review-june-august-2021-3bbc43f5ebbf)
+-**Skyline Structures Sales Metrics & Performance Review (June-August 2021)** [View Project](https://medium.com/@pearlxta/skyline-structures-sales-metrics-performance-review-june-august-2021-3bbc43f5ebbf)
 This report provides an analysis of the sales performance data for Skyline Structures Engineering Firm. Understanding our sales trends, product line performance across warehouses, client types, product lines, and payment methods from June to August 2021. 
 Interact with Dashboard: https://shorturl.at/knTzE
 
