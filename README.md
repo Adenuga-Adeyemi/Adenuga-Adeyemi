@@ -82,9 +82,12 @@ Analyzed Amazon Sales Performance Report from 2011-2014.
 -**Twitter Sentiment Analysis**[View Project](https://github.com/Adenuga-Adeyemi/Twitter-Sentiment-Analysis/blob/main/README.md)(Power BI)
 This Twitter Sentiment Analysis project focuses on analyzing public opinions expressed on Twitter to determine the overall sentiment, whether positive, negative, or neutral, regarding a specific topic, brand, or event. The main objective is to uncover insights into how users feel about the subject matter by processing tweet data using sentiment classification techniques.
 
--**Analysing Bank Marketing Campaigns**[View Project](https://github.com/Adenuga-Adeyemi/Bank-Campaigns/blob/main/README.md)
+-**Analysing Bank Marketing Campaigns**[View Project](https://github.com/Adenuga-Adeyemi/Bank-Campaigns/blob/main/README.md) (Power BI)
 This project focused on analyzing bank marketing campaigns to provide actionable insights into campaign performance and customer demographics.
 
+-**Green Data Solution Challenge**[View Project](https://github.com/Adenuga-Adeyemi/Green-Data-Solutions-Challenge/blob/main/README.md) (Power BI)
+
+-
 
 ### SQL
 -**North America Sales** [View Project](https://github.com/Adenuga-Adeyemi/North-America-Retail-Sales) (SQL):
