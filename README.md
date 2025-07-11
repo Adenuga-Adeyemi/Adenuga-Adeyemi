@@ -111,6 +111,9 @@ Interact with Dashboard: https://shorturl.at/knTzE
 -**Ocean-Line Pharmaceutical: Unlocking Sales Insights for Strategic Growth** [View Project](https://medium.com/@pearlxta/ocean-line-pharmaceutical-unlocking-sales-insights-for-strategic-growth-355d51688167)
 This analysis aims to provide a detailed understanding of the company’s sales trends, product performance, and strategic opportunities from its annual sales report from 2017 to 2022.
 
+-**Opay Financial Review Report (January to December 2024)** [View Project](https://medium.com/@pearlxta/opay-financial-review-report-january-to-december-2024-21521429adac)
+This report provides a comprehensive analysis of my personal financial activities conducted through Opay in the year 2024. The dashboard visualization outlines key performance indicators, spending categories, payment channels, and transaction behavior across all months.
+
 -**RevByte Store Performance Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/README.md)(Excel & Power BI):
 Analyzed sales data for a retail company using Excel for data cleaning and Power BI for visual storytelling. This challenge tested my skills in data analytics and visualization, and I am thrilled to showcase the outcomes of my work.
 
