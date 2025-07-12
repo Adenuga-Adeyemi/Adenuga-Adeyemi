@@ -26,9 +26,9 @@
 ---
 ## About Me
 
-I am a passionate Data Analyst and Academic Writer based in Lagos, Nigeria. I specialize in transforming complex data into clear insights that drive smarter decisions. With expertise in tools like SPSS, Office Packages (Excel, Word, PowerPoint, Access, Outlook), SQL, Power BI, Python, and Tableau, I enjoy working on projects related to Health Informatics, helping organizations and individuals understand and leverage their data for better outcomes.
+I am a passionate Data Analyst and Academic Writer based in Lagos, Nigeria, with over 6 years of experience delivering assistance in academic work, published articles, NVQ assessments, and technical writing. I specialize in transforming complex data into clear insights that drive smarter decisions. With expertise in tools like SPSS, Office Packages (Excel, Word, PowerPoint, Access, Outlook), SQL, Power BI, Python, and Tableau, I enjoy working on projects related to Health Informatics, helping organizations and individuals understand and leverage their data for better outcomes.
 
-As an academic writer, I focus on creating well-researched articles and reports, academic writing, such as Course work assessments, Module Assessments, Project Proposals, Thesis/Dissertations, Project Methodologies, Proof reading and Editing, Research Methodologies, and PowerPoint Presentations, etc. I have published on platforms like Medium, where I share my thoughts and findings on data analysis, health informatics, and peace advocacy.
+As an academic writer, I focus on creating well-researched articles and reports, including coursework assessments, Module Assessments, Project Proposals, Thesis/Dissertations, Project Methodologies, proofreading and Editing, Research Methodologies, and PowerPoint Presentations. I have published on platforms like Medium, where I share my thoughts and findings on data analysis, health informatics, and peace advocacy.
 
 I am committed to promoting peace and positive change in my community, believing that data-driven solutions can play a crucial role in solving societal challenges.
 
@@ -43,24 +43,26 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 ## Skills
 
-- Data Analysis & Visualization: Understand and Organize data, Interpreting, cleaning, and modeling complex datasets; crafting impactful visualizations and dashboards.
-- Statistical Analysis: Applying statistical methods to validate findings, on Hypothesis Testing using ANOVA, Paired and Unpaired t-test, Regression Analysis, Univariate Analysis, Multivariate Analysis, Factor Analysis, Covariate Analysis, Correlation, Chi-Square tests.
-- Academic Writing & Research: Well crafted reports, Thesis, Projects, Dissertations, Reflection Papers, Term Papers, Turnitin Reports (100% AI Plagiarism Checker).
-- Business Intelligence: Transforming raw data into clear business insights for operational and strategic improvements.
-- Health Informatics: Using analytics to improve healthcare delivery and patient outcomes.
-- Problem Solving: Tackling analytical challenges with creativity and precision.
+- **Data Analysis & Visualization**: Understand and organize data, interpreting, cleaning, and modeling complex datasets; crafting impactful visualizations and dashboards.
+- **Statistical Analysis**: Applying statistical methods to validate findings, on Hypothesis Testing using ANOVA, Paired and Unpaired t-test, Regression Analysis, Univariate Analysis, Multivariate Analysis, Factor Analysis, Covariate Analysis, Correlation, Chi-Square tests.
+- **Academic Writing & Research**: Essays, Dissertations, Capstone Projects, Reflection Papers, Literature Reviews, Research Proposals, Term Papers, Proofreading, Editing, Referencing (APA, MLA, Harvard, Chicago), Turnitin Reports (100% AI Plagiarism Checker), Training Materials & Curriculum Development.
+- **Business Intelligence**: Transforming raw data into clear business insights for operational and strategic improvements.
+- **Health Informatics**: Using analytics to improve healthcare delivery and patient outcomes.
+- **Problem Solving**: Tackling analytical challenges with creativity and precision.
   
 ---
 
 ## Tools
 
-- SPSS, Eviews, Nvivo
-- Excel: Advanced formulas, pivot tables, charts, automation (macros), and data cleaning.
-- Power BI: Interactive dashboards, real-time reporting, DAX calculations, and data modeling.
-- SQL: Writing queries for data extraction, transformation, and management in relational databases.
-- Python: Data manipulation (Pandas, NumPy), visualization (Matplotlib, Seaborn), statistical analysis, and automation.
-- Tableau: Creating dashboards, data blending, and sharing interactive reports.
-- Artificial Intelligence Tools: Prompt Engineering, Create Smart Prompts, Build Assistant Logic, Leveragig AI tools and solutions to drive innovation and efficiency.
+- **Academic Writing Tools**: Grammarly / Hemingway, Zotero / Mendeley, EndNote, Turnitin / Plagiarism Checkers, Overleaf (LaTeX)
+- **Statistical Tools**: SPSS, Eviews, Nvivo
+- **Design**: Canva, PowerPoint
+- **Excel**: Advanced formulas, pivot tables, charts, automation (macros), and data cleaning.
+- **Power BI**: Interactive dashboards, real-time reporting, DAX calculations, and data modeling.
+- **SQL**: (SSMS, MySQL) Writing queries for data extraction, transformation, and management in relational databases.
+- **Python**: Data manipulation (Pandas, NumPy), visualization (Matplotlib, Seaborn), statistical analysis, and automation.
+- **Tableau**: Creating dashboards, data blending, and sharing interactive reports.
+- **Artificial Intelligence Tools**: Prompt Engineering, Create Smart Prompts, Build Assistant Logic, Leveragig AI tools and solutions to drive innovation and efficiency.
 
 ---
 
@@ -162,6 +164,93 @@ This repository contains a cleaned dataset and analysis of COVID-19 data. The da
 ### Tableau
 -**US Sales Performance Analytics** [View Project](Tableau & Excel):
 Led a survey analytics project measuring peace-building initiatives in Lagos. Cleaned and analyzed survey data in Excel, then built Tableau dashboards to present results to local stakeholders.
+
+---
+## Books Written
+
+| Title | Year | Publisher | Description |
+|-------|------|-----------|-------------|
+| *The Power of Choice* | 2025 | Adeyemi Adenuga | [Read Here](https://drive.google.com/file/d/1V9OG933Yb_yYhj2NZIDV9J7E-svT-NwX/view?usp=drive_link). |
+| *Learning is Continuous* | 2024 | Adeyemi Adenuga | [Read Here] |
+
+
+---
+
+## Articles Published
+
+| Title | Journal/Platform | Date | Link |
+|-------|------------------|------|------|
+| *Power Automate Desktop vs Cloud-Based Power Automate: Understanding the Difference in Automation Approaches* | Medium | Jun 2025 | [Read Here](https://medium.com/@pearlxta/power-automate-desktop-vs-cloud-based-power-automate-understanding-the-difference-in-automation-0648d0a8138e) |
+| *Microsoft Power Platform: Empowering Digital Transformation through Low-Code Innovation* | Medium | Jun 2025 | [Read Here](https://medium.com/@pearlxta/microsoft-power-platform-empowering-digital-transformation-through-low-code-innovation-43a011fa430b) |
+| *Success Isn’t Sudden: It’s Built One Consistent Step at a Time* | Medium | June 2025 | [Read Here](https://medium.com/@pearlxta/success-isnt-sudden-it-s-built-one-consistent-step-at-a-time-c78c1c223cf1) |
+| *Mastering Dashboard Development in Tableau: Tricks, Parameters, Metric Calculations & Best Practices* | Medium | May 2025 | [Read Here](ttps://medium.com/@pearlxta/mastering-dashboard-development-in-tableau-tricks-parameters-metric-calculations-best-5e72351e573d) |
+| *Power BI Documentation Made Easy: Why It Matters and How to Do It Right* | Medium | May 2025 | [Read Here](https://medium.com/@pearlxta/power-bi-documentation-made-easy-why-it-matters-and-how-to-do-it-right-a9254d6ac013) |
+| *Why Dashboards Alone Won’t Make You a Complete Data Analyst* | Medium | May 2025 | [Read Here](https://medium.com/@pearlxta/why-dashboards-alone-wont-make-you-a-complete-data-analyst-0ff2ef37775b) |
+| *How to Present Data Projects Effectively* | Medium | Mar 2025 | [Read Here](https://medium.com/@pearlxta/how-to-present-data-projects-effectively-17af6cbc1ade) |
+| *Data Entry and Formatting in Excel: A Beginner’s Guide* | Medium | Mar 2025 | [Read Here](https://medium.com/@pearlxta/data-entry-and-formatting-in-excel-a-beginners-guide-c17206c53863) |
+| *Introduction to Excel: A Beginner’s Guide* | Medium | Mar 2025 | [Read Here](https://medium.com/@pearlxta/introduction-to-excel-a-beginners-guide-8ab455d4aeef) |
+| *Powerful Skills you need to master as a Data Analyst* | Medium | Mar 2025 | [Read Here](https://medium.com/@pearlxta/powerful-skills-you-need-to-master-as-a-data-analyst-1ef2616bacb5) |
+| *The Power of Data Analytics in Everday Life* | Medium | Mar 2025 | [Read Here](https://medium.com/@pearlxta/the-power-of-data-analytics-in-everday-life-7adffb97b5c0) |
+| *Understanding SQL Query: A Step-by-Step Analysis* | Medium | Feb 2025 | [Read Here](https://medium.com/@pearlxta/understanding-sql-query-a-step-by-step-analysis-b19ba5193390) |
+
+---
+
+## NVQ Assessments 
+
+| Project/Unit | Qualification Title | Level | Client/University | Description |
+|--------------|------|-------|---------------|-------------|
+| NVQ Level 3 Health & Social Care | OTHM Level 3 Foundation Diploma in Health & Social Care | 3 | London College of Professional Studies | Developed evidence-based assessment responses aligned with learner portfolios. |
+| Health and Social Care Level 3 Diploma | MCQ & CPD Accredited Course | 3 | Academy of Health & Fitness, UK [View Course](uk.fhonline.org/course/health-and-social-care-level-3-diploma/) | Supported clients in meeting unit outcomes and performance criteria. |
+
+---
+
+## Academic Projects & Capstones
+
+| Title | Degree/Course | Year | Client/University | Tools Used |
+|-------|-------|------|-------------------|-------------|
+| *Critically Explore Visitor Motivations in Elegushi's Beach, Lagos State, Nigeria* | MSc International Hospitality and Tourism | 2025 | Cardiff Met University, UK | SPSS, Qualtrics |
+| *Impact of Energy management and Efficiency on sustainable patronage and customer loyalty in the hotel industry* | Hospitality Management Technology | 2025 | Freelance | SPSS |
+| *Impact of digital food delivery platforms on consumer behaviour and traditional restaurants in urban Nigeria* | Hospitality Management Technology | 2025 | Freelance | SPSS, One-Way Analysis of Variance (ANOVA) |
+| *Effectiveness of the TIN system in combating tax evasion in Edo State* | MSc. Accounting | 2025 | Freelance | SPSS |
+| *Impact of Training and Development on Employees’ Performance in selected FCMB branches in the V.I. region* | BSc. Accounting | 2025 | Freelance | SPSS |
+| *Effectiveness of financial information in aiding management decision making* | BSc. Accounting | 2025 | Freelance | SPSS |
+| *The Effect of Corporate Governance on the Financial Performance of the Nigerian National Petroleum Company (NNPC) Ltd.* | MSc. Accounting | 2025 | Caleb University, Lagos | E-Views |
+| *The Impact of Effective Communication on Project Management Success: A case of Federal Medical Centres(FMCs) in Nigeria* | MSc Project Management | 2024 | Cardiff Met University, UK | Qualitative Analysis |
+| *The Impact of Agile Transformation on Effective Project Management: A case study of Dangote Group of Companies* | MSc Project Management | 2024 | Cardiff Met University, UK | Qualitative Analysis |
+| *Critical Analysis of Entrepreneurship in Effective Project Management: Strategies, Challenges, and Best Practices* | MSc Project Management | 2024 | Cardiff Met University, UK | Qualitative Analysis |
+| *Performance Measurement in Construction Projects* | MSc Project Management | 2024 | Cardiff Met University, UK | Qualitative Analysis |
+| *Enterprise Project: Development and Innovation of Afrian Baked Foods* | MSc International Hospitality and Tourism | 2024 | Cardiff Met University, UK | Qualitative & Quantitative Analysis |
+| *IPSAS adoption and its effect on completeness, comparability and effect on the quality of financial statements of public tertiary educational institutions in Lagos State from 2015-2024* | MSc Accounting | 2024 | Caleb University, Lagos | Qualitative Analysis |
+| *Impact of New Technology Applications on the Performance of Project Management: A case study of AI Applications and Trends in the Marketing Communications Consulting Firms* | MSc International Project Management | 2024 | Northumbria University, Newcastle, UK | Qualitative and Thematic Analysis |
+
+---
+
+## Helpful Resources
+
+### Writing & Research
+
+- [Google Scholar](https://scholar.google.com)
+- [Scribbr – Citation Tools](https://www.scribbr.com/)
+- [Manchester Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/)
+- [Purdue OWL](https://owl.purdue.edu/owl/purdue_owl.html)
+
+### Data Analysis
+
+- [Kaggle](https://www.kaggle.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [DataCamp](https://www.datacamp.com/)
+- [W3Schools Python](https://www.w3schools.com/python/)
+- [Tableau Public](https://public.tableau.com/)
+
+---
+
+## Testimonials
+
+> “A reliable and professional academic writer. Excellent attention to detail.”  
+> — Mr. Hassan Jafar, MSc. Project Management Cardiff Met University
+
+> “Helped me achieve a Distinction in my NVQ Level 3.”  
+> — Oguntade D., Care Worker
 
 ---
 
