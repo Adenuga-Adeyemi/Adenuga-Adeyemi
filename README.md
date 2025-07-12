@@ -48,7 +48,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 - **Academic Writing & Research**: Essays, Dissertations, Capstone Projects, Reflection Papers, Literature Reviews, Research Proposals, Term Papers, Proofreading, Editing, Referencing (APA, MLA, Harvard, Chicago), Turnitin Reports (100% AI Plagiarism Checker), Training Materials & Curriculum Development.
 - **Business Intelligence**: Transforming raw data into clear business insights for operational and strategic improvements.
 - **Health Informatics**: Using analytics to improve healthcare delivery and patient outcomes.
-- **Problem Solving**: Tackling analytical challenges with creativity and precision.
+- **Communication & Problem Solving**: Tackling analytical challenges with creativity and precision.
   
 ---
 
@@ -168,7 +168,7 @@ Led a survey analytics project measuring peace-building initiatives in Lagos. Cl
 ---
 ## Books Written
 
-| Title | Year | Publisher | Description |
+| Title | Year | Writer | Description |
 |-------|------|-----------|-------------|
 | *The Power of Choice* | 2025 | Adeyemi Adenuga | [Read Here](https://drive.google.com/file/d/1V9OG933Yb_yYhj2NZIDV9J7E-svT-NwX/view?usp=drive_link). |
 | *Learning is Continuous* | 2024 | Adeyemi Adenuga | [Read Here] |
