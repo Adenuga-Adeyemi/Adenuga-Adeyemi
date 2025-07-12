@@ -93,22 +93,22 @@ I’ve also created a detailed presentation and Excel dashboard that capture the
 
 -**Deli Grocery Sales Analysis Report** [View Project](https://medium.com/@pearlxta/deli-grocery-sales-analysis-report-278856f89054)
 This report highlights a recent project where I designed a 4-page dynamic and interactive Power BI Dashboard for a food grocery store. The primary objective was to help business owners and managers quickly visualize key performance metrics, understand sales trends, and make informed decisions that align with customer needs.
-*LinkedIn report*: https://www.linkedin.com/posts/pearladeyemi_datavisualization-dashboarddesign-darktheme-activity-7319269499419926529-0r6C
+[*LinkedIn report*](https://www.linkedin.com/posts/pearladeyemi_datavisualization-dashboarddesign-darktheme-activity-7319269499419926529-0r6C)
 
 -**BMW Car Model Sales Analysis Report (2019–2023)** [View Project](https://medium.com/@pearlxta/bmw-car-model-sales-analysis-report-2019-2023-f812690be7b9)
 This report focuses on the sales performance of BMW car models across various global markets from January 2019 to December 2023. The analysis provides understanding of the factors driving revenue, car model popularity, and channel efficiency, helping stakeholders align their strategic planning with real-time transactional data.
 
 -**US Superstore Sales Performance Analysis (Report as of 2017)**[View Project](https://medium.com/@pearlxta/us-superstore-sales-performance-analysis-report-as-of-2017-4a2c8b47fff6)
 This report analyzes the sales performance of the US Superstore between 2014 and 2017 to uncover insights that support strategic decision-making.
-*Interact with Pbix file*: https://app.powerbi.com/view?r=eyJrIjoiZmI2MTYwMTEtZjYxMy00ZTAyLWEyNTQtNmIzOGUxZmEyYjk4IiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9
+[*Interact with Pbix file*](https://app.powerbi.com/view?r=eyJrIjoiZmI2MTYwMTEtZjYxMy00ZTAyLWEyNTQtNmIzOGUxZmEyYjk4IiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
 
 -**Citi Superstore Financial Performance Report** [View Project](https://medium.com/@pearlxta/citi-superstore-financial-performance-report-82b66811d124)
 The primary problem addressed by this report is to understand the financial performance of Citi Superstore by analyzing its sales, quantity sold, and order volumes. This understanding is crucial for informed decision-making, resource allocation, and strategic planning to optimize business operations and profitability.
-*Interact with the PBIX file*: https://app.powerbi.com/view?r=eyJrIjoiMTMwZjQ1NjYtMjg0YS00MjAyLTkyOWUtMzk0MDRhMGFjYzcyIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9
+[*Interact with the PBIX file*](https://app.powerbi.com/view?r=eyJrIjoiMTMwZjQ1NjYtMjg0YS00MjAyLTkyOWUtMzk0MDRhMGFjYzcyIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
 
 -**Skyline Structures Sales Metrics & Performance Review (June-August 2021)** [View Project](https://medium.com/@pearlxta/skyline-structures-sales-metrics-performance-review-june-august-2021-3bbc43f5ebbf)
 This report provides an analysis of the sales performance data for Skyline Structures Engineering Firm. Understanding our sales trends, product line performance across warehouses, client types, product lines, and payment methods from June to August 2021. 
-Interact with Dashboard: https://shorturl.at/knTzE
+[*Interact with Dashboard*](https://shorturl.at/knTzE)
 
 -**Ocean-Line Pharmaceutical: Unlocking Sales Insights for Strategic Growth** [View Project](https://medium.com/@pearlxta/ocean-line-pharmaceutical-unlocking-sales-insights-for-strategic-growth-355d51688167)
 This analysis aims to provide a detailed understanding of the company’s sales trends, product performance, and strategic opportunities from its annual sales report from 2017 to 2022.
@@ -136,7 +136,7 @@ This Twitter Sentiment Analysis project focuses on analyzing public opinions exp
 
 -**Global Skincare and Beauty Performance E-Store Analysis** [View Project](https://medium.com/@pearlxta/global-skincare-and-beauty-performance-e-store-analysis-82e1e22c54be)
 In the ever-evolving digital marketplace, the skincare and beauty industry has experienced a significant shift toward e-commerce. Understanding performance metrics such as revenue, product popularity, regional impact, and customer behavior is essential for making informed business decisions. This project aims to analyze the global performance of a skincare and beauty e-store using comprehensive data visualization tools.
-*Interact with the PBIX*: https://app.powerbi.com/view?r=eyJrIjoiMTYxNWM0YTItNjMyNS00MjgzLWFhM2ItZmUxMmVmNTlkZjhkIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9&disablecdnExpiration=1746486363
+[*Interact with the PBIX*](https://app.powerbi.com/view?r=eyJrIjoiMTYxNWM0YTItNjMyNS00MjgzLWFhM2ItZmUxMmVmNTlkZjhkIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9&disablecdnExpiration=1746486363)
 
 -**Analysing Bank Marketing Campaigns**[View Project](https://github.com/Adenuga-Adeyemi/Bank-Campaigns/blob/main/README.md) (Power BI)
 This project focused on analyzing bank marketing campaigns to provide actionable insights into campaign performance and customer demographics.
