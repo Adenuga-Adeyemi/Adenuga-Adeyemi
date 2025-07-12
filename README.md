@@ -86,8 +86,8 @@ Conducted gender trends analysis using Excel, creating interactive dashboards. H
 -**Investment Preference Analysis** [View Project](Excel)
 Data Source: Cognifyz Technologies Data Analysis: Pivot Table (Sum, Count, Percentage) 
 I’ve also created a detailed presentation and Excel dashboard that capture these insights. If you’re interested, you can explore them here:
-*Excel Dashboard Link*: https://lnkd.in/gTmP3q68
-*Presentation Slides*: https://lnkd.in/gvjZ64YN
+[*Excel Dashboard Link*](https://lnkd.in/gTmP3q68)
+[*Presentation Slides*](https://lnkd.in/gvjZ64YN)
 
 ### Power BI
 
