@@ -209,8 +209,8 @@ Led a survey analytics project measuring peace-building initiatives in Lagos. Cl
 | Title | Degree/Course | Year | Client/University | Tools Used |
 |-------|-------|------|-------------------|-------------|
 | *Critically Explore Visitor Motivations in Elegushi's Beach, Lagos State, Nigeria* | MSc International Hospitality and Tourism | 2025 | Cardiff Met University, UK | SPSS, Qualtrics |
-| *Impact of Energy management and Efficiency on sustainable patronage and customer loyalty in the hotel industry* | Hospitality Management Technology | 2025 | Freelance | SPSS |
-| *Impact of digital food delivery platforms on consumer behaviour and traditional restaurants in urban Nigeria* | Hospitality Management Technology | 2025 | Freelance | SPSS, One-Way Analysis of Variance (ANOVA) |
+| *Impact of Energy management and Efficiency on sustainable patronage and customer loyalty in the hotel industry* | HND Hospitality Management Technology | 2025 | Freelance | SPSS |
+| *Impact of digital food delivery platforms on consumer behaviour and traditional restaurants in urban Nigeria* | HND Hospitality Management Technology | 2025 | Freelance | SPSS, One-Way Analysis of Variance (ANOVA) |
 | *Effectiveness of the TIN system in combating tax evasion in Edo State* | MSc. Accounting | 2025 | Freelance | SPSS |
 | *Impact of Training and Development on Employees’ Performance in selected FCMB branches in the V.I. region* | BSc. Accounting | 2025 | Freelance | SPSS |
 | *Effectiveness of financial information in aiding management decision making* | BSc. Accounting | 2025 | Freelance | SPSS |
