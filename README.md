@@ -26,9 +26,9 @@
 ---
 ## About Me
 
-I am a passionate Data Analyst and Academic Writer based in Lagos, Nigeria. I specialize in transforming complex data into clear insights that drive smarter decisions. With expertise in tools like SPSS, Excel, SQL, Power BI, Python, and Tableau, I enjoy working on projects related to Health Informatics, helping organizations and individuals understand and leverage their data for better outcomes.
+I am a passionate Data Analyst and Academic Writer based in Lagos, Nigeria. I specialize in transforming complex data into clear insights that drive smarter decisions. With expertise in tools like SPSS, Office Packages (Excel, Word, PowerPoint, Access, Outlook), SQL, Power BI, Python, and Tableau, I enjoy working on projects related to Health Informatics, helping organizations and individuals understand and leverage their data for better outcomes.
 
-As an academic writer, I focus on creating well-researched articles and reports. I have published on platforms like Medium, where I share my thoughts and findings on data analysis, health informatics, and peace advocacy.
+As an academic writer, I focus on creating well-researched articles and reports, academic writing, such as Course work assessments, Module Assessments, Project Proposals, Thesis/Dissertations, Project Methodologies, Proof reading and Editing, Research Methodologies, and PowerPoint Presentations, etc. I have published on platforms like Medium, where I share my thoughts and findings on data analysis, health informatics, and peace advocacy.
 
 I am committed to promoting peace and positive change in my community, believing that data-driven solutions can play a crucial role in solving societal challenges.
 
@@ -49,7 +49,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 - Business Intelligence: Transforming raw data into clear business insights for operational and strategic improvements.
 - Health Informatics: Using analytics to improve healthcare delivery and patient outcomes.
 - Problem Solving: Tackling analytical challenges with creativity and precision.
-
+  
 ---
 
 ## Tools
@@ -60,7 +60,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 - SQL: Writing queries for data extraction, transformation, and management in relational databases.
 - Python: Data manipulation (Pandas, NumPy), visualization (Matplotlib, Seaborn), statistical analysis, and automation.
 - Tableau: Creating dashboards, data blending, and sharing interactive reports.
-- Artificial Intelligence Tools: Prompt Engineering, Create Smart Prompts, Build Assistant Logic.
+- Artificial Intelligence Tools: Prompt Engineering, Create Smart Prompts, Build Assistant Logic, Leveragig AI tools and solutions to drive innovation and efficiency.
 
 ---
 
