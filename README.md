@@ -91,6 +91,9 @@ I’ve also created a detailed presentation and Excel dashboard that capture the
 
 ### Power BI
 
+-**Football Analytics** [View Project](https://medium.com/@pearlxta/manchester-city-premier-league-performance-analytics-af48ef98b116) 
+This report presents an in-depth analytical overview of Manchester City’s Premier League performance, using data visualizations built in Power BI and enriched with DAX-driven insights. The aim is to identify trends, draw meaningful findings based on performance data.
+
 -**Deli Grocery Sales Analysis Report** [View Project](https://medium.com/@pearlxta/deli-grocery-sales-analysis-report-278856f89054)
 This report highlights a recent project where I designed a 4-page dynamic and interactive Power BI Dashboard for a food grocery store. The primary objective was to help business owners and managers quickly visualize key performance metrics, understand sales trends, and make informed decisions that align with customer needs.
 [*LinkedIn report*](https://www.linkedin.com/posts/pearladeyemi_datavisualization-dashboarddesign-darktheme-activity-7319269499419926529-0r6C)
