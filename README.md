@@ -180,7 +180,9 @@ This repository contains the complete architecture, configuration files, and doc
 | Title | Year | Writer | Description |
 |-------|------|-----------|-------------|
 | *The Power of Choice* | 2025 | Adeyemi Adenuga | [Read Here](https://drive.google.com/file/d/1V9OG933Yb_yYhj2NZIDV9J7E-svT-NwX/view?usp=drive_link). |
-| *Mastering SQL Practices* | 2025 | Adeyemi Adenuga | [Read Here]("C:\Users\HP\Downloads\MASTERING SQL PRACTICES.pdf"). |
+| *Mastering SQL Practices* | 2025 | Adeyemi Adenuga | [Read Here](https://github.com/Adenuga-Adeyemi/Articles/blob/main/MASTERING%20SQL%20PRACTICES.pdf). |
+| *SQL Commands* | 2025 | Adeyemi Adenuga | [Read Here](https://github.com/Adenuga-Adeyemi/Articles/blob/main/SQL%20Command.pdf). |
+| *SQL Joins* | 2025 | Adeyemi Adenuga | [Read Here](https://github.com/Adenuga-Adeyemi/Articles/blob/main/SQL%20Joins.pdf). |
 
 
 ---
