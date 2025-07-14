@@ -180,7 +180,7 @@ This repository contains the complete architecture, configuration files, and doc
 | Title | Year | Writer | Description |
 |-------|------|-----------|-------------|
 | *The Power of Choice* | 2025 | Adeyemi Adenuga | [Read Here](https://drive.google.com/file/d/1V9OG933Yb_yYhj2NZIDV9J7E-svT-NwX/view?usp=drive_link). |
-| *Learning is Continuous* | 2024 | Adeyemi Adenuga | [Read Here] |
+| *Mastering SQL Practices* | 2025 | Adeyemi Adenuga | [Read Here]("C:\Users\HP\Downloads\MASTERING SQL PRACTICES.pdf") |
 
 
 ---
