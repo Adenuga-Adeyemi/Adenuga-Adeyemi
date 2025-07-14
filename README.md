@@ -47,6 +47,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 - **Statistical Analysis**: Applying statistical methods to validate findings, on Hypothesis Testing using ANOVA, Paired and Unpaired t-test, Regression Analysis, Univariate Analysis, Multivariate Analysis, Factor Analysis, Covariate Analysis, Correlation, Chi-Square tests.
 - **Academic Writing & Research**: Essays, Dissertations, Capstone Projects, Reflection Papers, Literature Reviews, Research Proposals, Term Papers, Proofreading, Editing, Referencing (APA, MLA, Harvard, Chicago), Turnitin Reports (100% AI Plagiarism Checker), Training Materials & Curriculum Development.
 - **Business Intelligence**: Transforming raw data into clear business insights for operational and strategic improvements.
+- **Cloud Computing & AI**: Azure AI Fundamentals (AI-900) (in view). Skilled in deploying data solutions using Azure Machine Learning Studio and cloud-based analytics pipelines.
 - **Health Informatics**: Using analytics to improve healthcare delivery and patient outcomes.
 - **Communication & Problem Solving**: Tackling analytical challenges with creativity and precision.
   
@@ -62,7 +63,8 @@ My mission is to empower organizations and individuals to make data-driven decis
 - **SQL**: (SSMS, MySQL) Writing queries for data extraction, transformation, and management in relational databases.
 - **Python**: Data manipulation (Pandas, NumPy), visualization (Matplotlib, Seaborn), statistical analysis, and automation.
 - **Tableau**: Creating dashboards, data blending, and sharing interactive reports.
-- **Artificial Intelligence Tools**: Prompt Engineering, Create Smart Prompts, Build Assistant Logic, Leveragig AI tools and solutions to drive innovation and efficiency.
+- **Artificial Intelligence Tools**: Prompt Engineering, Create Smart Prompts, Build Assistant Logic, Leveraging AI tools and solutions to drive innovation and efficiency.
+- **Microsoft Azure AI Fundamentals (AI-900)**
 
 ---
 
@@ -167,6 +169,9 @@ This repository contains a cleaned dataset and analysis of COVID-19 data. The da
 ### Tableau
 -**US Sales Performance Analytics** [View Project](Tableau & Excel):
 Led a survey analytics project measuring peace-building initiatives in Lagos. Cleaned and analyzed survey data in Excel, then built Tableau dashboards to present results to local stakeholders.
+
+### Azure Data & AI
+-**AfroTech Web App: Scalable E-commerce Website App** [View Project] (Azure):
 
 ---
 ## Books Written
