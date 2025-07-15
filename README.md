@@ -57,7 +57,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 - **Academic Writing Tools**: Grammarly / Hemingway, Zotero / Mendeley, EndNote, Turnitin / Plagiarism Checkers, Overleaf (LaTeX)
 - **Statistical Tools**: SPSS, Eviews, Nvivo
-- **Design**: Canva, PowerPoint
+- **Design**: Canva, PowerPoint, CapCut, OBS Studio, etc.
 - **Excel**: Advanced formulas, pivot tables, charts, automation (macros), and data cleaning.
 - **Power BI**: Interactive dashboards, real-time reporting, DAX calculations, and data modeling.
 - **SQL**: (SSMS, MySQL) Writing queries for data extraction, transformation, and management in relational databases.
