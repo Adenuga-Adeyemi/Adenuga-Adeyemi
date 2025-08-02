@@ -94,11 +94,11 @@ I’ve also created a detailed presentation and Excel dashboard that capture the
 ### Power BI
 
 -**Football Analytics** [View Project](https://medium.com/@pearlxta/manchester-city-premier-league-performance-analytics-af48ef98b116) 
-This report presents an in-depth analytical overview of Manchester City’s Premier League performance, using data visualizations built in Power BI and enriched with DAX-driven insights. The aim is to identify trends, draw meaningful findings based on performance data.[*Interact with PBIX*](https://app.powerbi.com/view?r=eyJrIjoiM2YyNTM5N2MtOTVjMi00ZjA0LWI5MWMtNTc0OTUwZGMxNThlIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
+This report presents an in-depth analytical overview of Manchester City’s Premier League performance, using data visualizations built in Power BI and enriched with DAX-driven insights. The aim is to identify trends, draw meaningful findings based on performance data.[*Interact with PBIX*](https://app.powerbi.com/view?r=eyJrIjoiM2YyNTM5N2MtOTVjMi00ZjA0LWI5MWMtNTc0OTUwZGMxNThlIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) [Interact with Pbix](https://bit.ly/46WTinN)
 
--**Deli Grocery Sales Analysis Report** [View Project](https://medium.com/@pearlxta/deli-grocery-sales-analysis-report-278856f89054)
+-**Deli Grocery Sales Analysis Report** [View Project](https://medium.com/@pearlxta/deli-grocery-sales-analysis-report-278856f89054) 
 This report highlights a recent project where I designed a 4-page dynamic and interactive Power BI Dashboard for a food grocery store. The primary objective was to help business owners and managers quickly visualize key performance metrics, understand sales trends, and make informed decisions that align with customer needs.
-[*LinkedIn report*](https://www.linkedin.com/posts/pearladeyemi_datavisualization-dashboarddesign-darktheme-activity-7319269499419926529-0r6C)
+[*LinkedIn report*](https://www.linkedin.com/posts/pearladeyemi_datavisualization-dashboarddesign-darktheme-activity-7319269499419926529-0r6C) [
 
 -**BMW Car Model Sales Analysis Report (2019–2023)** [View Project](https://medium.com/@pearlxta/bmw-car-model-sales-analysis-report-2019-2023-f812690be7b9)
 This report focuses on the sales performance of BMW car models across various global markets from January 2019 to December 2023. The analysis provides understanding of the factors driving revenue, car model popularity, and channel efficiency, helping stakeholders align their strategic planning with real-time transactional data.
