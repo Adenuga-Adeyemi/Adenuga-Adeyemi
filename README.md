@@ -281,7 +281,7 @@ This repository contains the complete architecture, configuration files, and doc
 ## Let’s Connect:
 
 LinkedIn: https://www.linkedin.com/in/pearladeyemi
-Medium: https://medium.com/@pearlxta
+Medium: https://medium.com/@adeyemi.da
 
 ---
 
