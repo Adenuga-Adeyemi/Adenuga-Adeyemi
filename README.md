@@ -64,19 +64,19 @@ My mission is to empower organizations and individuals to make data-driven decis
 - **Python**: Data manipulation (Pandas, NumPy), visualization (Matplotlib, Seaborn), statistical analysis, and automation.
 - **Tableau**: Creating dashboards, data blending, and sharing interactive reports.
 - **Artificial Intelligence Tools**: Prompt Engineering, Create Smart Prompts, Build Assistant Logic, Leveraging AI tools and solutions to drive innovation and efficiency.
-- **Microsoft Azure AI Fundamentals (AI-900)**
+- **Microsoft Azure AI Fundamentals (AI-900)**: Natural Learning Processing, AI Vision, Generative AI fundamentals.
 
 ---
 
 ## Certifications
-- Microsoft Azure AI Fundamentals Certified (AI-900) - [View Certificate]()
-- Azure Data Fundamentals (DP-900) offered by Digital Skills Nigeria - [View Certficate]()
+- Microsoft Azure AI Fundamentals Certified (AI-900) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png)
+- Azure Data Fundamentals (DP-900) offered by Digital Skills Nigeria - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Azure%20Data%20Fundamentals.png)
 - Microsoft Certified Data Analyst (PL-300) offered by Digital Skills Nigeria - [View Certificate]()
-- AI Fluency - [View Certificate]()
-- Introduction to SQL -[View Certificate]()
-- Intermediate SQL - [View Certificate]()
-- Understanding Cloud Computing with Azure - [View Certificate]()
-- Introducton to Microsoft Copilot Studio - [View Certificate]()
+- AI Fluency - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/AI%20Fluency.png)
+- Introduction to SQL -[View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Introduction%20to%20SQL.png)
+- Intermediate SQL - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Intermediate%20SQL.png)
+- Understanding Cloud Computing with Azure - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Cloud%20Computing.png)
+- Introduction to Microsoft Copilot Studio - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Microsoft%20Copilot.png)
 
 ---
 
