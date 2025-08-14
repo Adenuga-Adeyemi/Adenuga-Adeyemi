@@ -68,6 +68,18 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 ---
 
+## Certifications
+- Microsoft Azure AI Fundamentals Certified (AI-900) - [View Certificate]()
+- Azure Data Fundamentals (DP-900) offered by Digital Skills Nigeria - [View Certficate]()
+- Microsoft Certified Data Analyst (PL-300) offered by Digital Skills Nigeria - [View Certificate]()
+- AI Fluency - [View Certificate]()
+- Introduction to SQL -[View Certificate]()
+- Intermediate SQL - [View Certificate]()
+- Understanding Cloud Computing with Azure - [View Certificate]()
+- Introducton to Microsoft Copilot Studio - [View Certificate]()
+
+---
+
 ## Projects
 
 ### Excel
