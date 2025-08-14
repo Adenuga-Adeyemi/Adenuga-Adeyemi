@@ -203,6 +203,7 @@ This repository contains the complete architecture, configuration files, and doc
 
 | Title | Journal/Platform | Date | Link |
 |-------|------------------|------|------|
+| *A Comprehensive Guide on How to Use Power BI Online Without a Work or School Email* | Medium | Aug 2025 | [Read Here](https://medium.com/@adeyemi.da/a-comprehensive-guide-on-how-to-use-power-bi-online-without-a-work-or-school-email-bb9a1dcec79a) |
 | *Power Automate Desktop vs Cloud-Based Power Automate: Understanding the Difference in Automation Approaches* | Medium | Jun 2025 | [Read Here](https://medium.com/@adeyemi.da/power-automate-desktop-vs-cloud-based-power-automate-understanding-the-difference-in-automation-0648d0a8138e) |
 | *Microsoft Power Platform: Empowering Digital Transformation through Low-Code Innovation* | Medium | Jun 2025 | [Read Here](https://medium.com/@adeyemi.da/microsoft-power-platform-empowering-digital-transformation-through-low-code-innovation-43a011fa430b) |
 | *Success Isn’t Sudden: It’s Built One Consistent Step at a Time* | Medium | Jun 2025 | [Read Here](https://medium.com/@adeyemi.da/success-isnt-sudden-it-s-built-one-consistent-step-at-a-time-c78c1c223cf1) |
