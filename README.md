@@ -77,7 +77,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 - Intermediate SQL - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Intermediate%20SQL.png)
 - Understanding Cloud Computing with Azure - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Cloud%20Computing.png)
 - Introduction to Microsoft Copilot Studio - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Microsoft%20Copilot.png)
-- Academic Writing for Research Excellence by Uniathena - [View CErtificate]()
+- Academic Writing for Research Excellence by Uniathena - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Academic%20Writing.png)
 
 ---
 
