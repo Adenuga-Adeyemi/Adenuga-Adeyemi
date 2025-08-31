@@ -101,11 +101,17 @@ Conducted gender trends analysis using Excel, creating interactive dashboards. H
 
 -**Investment Preference Analysis** [View Project](Excel)
 Data Source: Cognifyz Technologies Data Analysis: Pivot Table (Sum, Count, Percentage) 
-I’ve also created a detailed presentation and Excel dashboard that capture these insights. If you’re interested, you can explore them here:
+I’ve also created a detailed presentation and Excel dashboard that captures these insights. If you’re interested, you can explore them here:
 [*Excel Dashboard Link*](https://lnkd.in/gTmP3q68)
 [*Presentation Slides*](https://lnkd.in/gvjZ64YN)
 
 ### Power BI
+
+-**Mpox Trends in Africa** [View Project](https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) 
+This is an health intelligence report that provides a thorough examination of Mpox trends in Africa from January 2024 to August 2025 to highlight the evolving situation, key data insights, and public health implications.
+
+-**Fitness Tracker** [View Project](https://app.powerbi.com/view?r=eyJrIjoiMmNhZDA0MzAtODAwOC00MjY0LWFhZjgtOTc1NDEzMDI5MWExIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) 
+This is a fitness log tracker dashboard that helps users monitor and analyze their workout progress over time. It displays key metrics such as BMI calculator, calories burned and client membership types in an easy-to-read format.
 
 -**Football Analytics** [View Project](https://medium.com/@adeyemi.da/manchester-city-premier-league-performance-analytics-af48ef98b116) 
 This report presents an in-depth analytical overview of Manchester City’s Premier League performance, using data visualizations built in Power BI and enriched with DAX-driven insights. The aim is to identify trends, draw meaningful findings based on performance data.[*Interact with PBIX*](https://app.powerbi.com/view?r=eyJrIjoiM2YyNTM5N2MtOTVjMi00ZjA0LWI5MWMtNTc0OTUwZGMxNThlIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) [Interact with Pbix](https://bit.ly/46WTinN)
@@ -177,7 +183,8 @@ The data used is from Microsoft’s AdventureWorks2022 sample database. It simul
 -**Covid 19 Cleaned Dataset Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Covid-19)
 This repository contains a cleaned dataset and analysis of COVID-19 data. The dataset has been processed for use in data analysis, visualization, and machine learning tasks. It includes information on cases, deaths, recoveries, and other relevant metrics related to the COVID-19 pandemic.
 
--**Data Modelling**[View Project]
+-**Exploratory Data Analysis on Weather Forecast** [View Project](https://github.com/Adenuga-Adeyemi/Python-Projects/blob/main/Weather%20Forecasts.md)
+The dataset used for this analysis is “Weather Dataset.csv”, which contains historical records of weather conditions. It includes features such as temperature, humidity, wind speed, visibility, pressure, and weather descriptions.
 
 
 ### Tableau
