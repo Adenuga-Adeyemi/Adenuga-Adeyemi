@@ -69,7 +69,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 ---
 
 ## Certifications
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) - [View Certificate]()
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png)
 - Microsoft Azure AI Fundamentals Certified (AI-900) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png)
 - Azure Data Fundamentals (DP-900) offered by Digital Skills Nigeria - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Azure%20Data%20Fundamentals.png)
 - Microsoft Certified Data Analyst (PL-300) offered by Digital Skills Nigeria - [View Certificate]()
