@@ -47,7 +47,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 - **Statistical Analysis**: Applying statistical methods to validate findings, on Hypothesis Testing using ANOVA, Paired and Unpaired t-test, Regression Analysis, Univariate Analysis, Multivariate Analysis, Factor Analysis, Covariate Analysis, Correlation, Chi-Square tests.
 - **Academic Writing & Research**: Essays, Dissertations, Capstone Projects, Reflection Papers, Literature Reviews, Research Proposals, Term Papers, Proofreading, Editing, Referencing (APA, MLA, Harvard, Chicago), Turnitin Reports (100% AI Plagiarism Checker), Training Materials & Curriculum Development.
 - **Business Intelligence**: Transforming raw data into clear business insights for operational and strategic improvements.
-- **Cloud Computing & AI**: Azure AI Fundamentals (AI-900) (in view). Skilled in deploying data solutions using Azure Machine Learning Studio and cloud-based analytics pipelines.
+- **Cloud Computing & AI**: Azure AI Fundamentals (AI-900), Skilled in deploying data solutions using Azure Machine Learning Studio and cloud-based analytics pipelines.
 - **Health Informatics**: Using analytics to improve healthcare delivery and patient outcomes.
 - **Communication & Problem Solving**: Tackling analytical challenges with creativity and precision.
   
