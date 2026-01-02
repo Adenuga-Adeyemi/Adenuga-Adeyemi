@@ -26,7 +26,7 @@
 ---
 ## About Me
 
-I am a passionate Data Analyst and Academic Writer based in Lagos, Nigeria, with over 6 years of experience delivering assistance in academic work, published articles, NVQ assessments, and technical writing. I specialize in transforming complex data into clear insights that drive smarter decisions. With expertise in tools like SPSS, Microsoft Office Suites (Excel, Word, PowerPoint, Access, Outlook), SQL, Power BI, Python, and Tableau, I enjoy working on projects related to Health Informatics, helping organizations and individuals understand and leverage their data for better outcomes.
+I am a passionate Data Analyst and Academic Writer based in Lagos, Nigeria, with over 6 years of experience delivering assistance in academic work, published articles, NVQ assessments, and technical writing. I specialize in transforming complex data into clear insights that drive smarter decisions. With expertise in tools like SPSS, Microsoft Office Suites (Excel, Word, PowerPoint, Access, Outlook), SQL, Power BI, Python,Tableau, and Fabric, I enjoy working on projects related to Health Informatics, helping organizations and individuals understand and leverage their data for better outcomes.
 
 As an academic writer, I focus on creating well-researched articles and reports, including coursework assessments, Module Assessments, Project Proposals, Thesis/Dissertations, Project Methodologies, proofreading and Editing, Research Methodologies, and PowerPoint Presentations. I have published on platforms like Medium, where I share my thoughts and findings on data analysis, health informatics, and peace advocacy.
 
@@ -69,6 +69,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 ---
 
 ## Certifications
+- Microsoft Certified: Fabric Data Analytics Engineer Associate (DP-600) - [View Certificate]
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png)
 - Microsoft Azure AI Fundamentals Certified (AI-900) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png)
 - Azure Data Fundamentals (DP-900) offered by Digital Skills Nigeria - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Azure%20Data%20Fundamentals.png)
