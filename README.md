@@ -197,6 +197,11 @@ Led a survey analytics project measuring peace-building initiatives in Lagos. Cl
 -**AfroTech Web App: Scalable E-commerce Website App** [View Project](https://github.com/Adenuga-Adeyemi/Azure-Projects/blob/main/AfroTech%20Web%20App/Readme.md) (Azure):
 This repository contains the complete architecture, configuration files, and documentation for AfroTech, a cloud-native, scalable e-commerce web application deployed on Microsoft Azure. The solution leverages Azure services like App Service, Azure SQL Database, Azure Active Directory, Virtual Machines, Blob Storage, and DevOps Pipelines to deliver high availability, performance, and security.
 
+
+### Azure Data & AI
+-**Project SafeSure Cluster: Scalable Data Ingestion Pipeline** [View Project](https://github.com/Adenuga-Adeyemi/Azure-Projects/tree/main/project-safesure-cluster) (Azure):
+This repository contains the complete architecture, configuration files, and documentation for AfroTech, a cloud-native, scalable e-commerce web application deployed on Microsoft Azure. The solution leverages Azure services like App Service, Azure SQL Database, Azure Active Directory, Virtual Machines, Blob Storage, and DevOps Pipelines to deliver high availability, performance, and security.
+
 ---
 ## Books Written
 
