@@ -87,6 +87,9 @@ My mission is to empower organizations and individuals to make data-driven decis
 ## Projects
 
 ### Excel
+-**Customer Sales Report**[View Project](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/tree/main)
+This is a project based learning resources from Addidas Company. The project focused more of Customer based behaviour and organization performance over time. The project was carried out using Excel.
+
 -**Sales Analysis Report**[View Project](https://medium.com/@adeyemi.da/sales-analysis-report-fc558b5b3645)(Excel)
 Have you ever wondered what drives revenue growth in a competitive market? In today’s data-driven business environment, understanding sales trends and customer behaviors is crucial for making informed decisions. I recently conducted an in-depth sales analysis to uncover key trends, customer demographics, and product performance.
 
