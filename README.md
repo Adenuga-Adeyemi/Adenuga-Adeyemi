@@ -255,6 +255,44 @@ ETL · Data pipelines · AWS cloud services · Data transformation · Data integ
 
 <img src="https://img.shields.io/badge/Power%20Apps-projects-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 
+-**HR leave management application**   
+An end-to-end HR Leave Management Application built with Microsoft Power Apps, SharePoint, and Power Automate. The solution allows employees to submit leave requests, view their requests, track approval status, and receive automated notifications. The application replaces manual processes such as emails, messaging apps, and spreadsheets with a centralized and auditable workflow.
+
+Key features:
+Responsive canvas app · Leave request forms · SharePoint data storage · Power Automate approvals · Email notifications · Request tracking
+Tools: Microsoft Power Apps · SharePoint · Power Automate · Power Fx · Excel
+
+<a href="https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/tree/main/leave-approval-flow"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<a href="https://medium.com/@adeyemi.da/building-an-hr-leave-management-application-using-microsoft-power-apps-7b8f5b24da57"> <img src="https://img.shields.io/badge/Read%20article-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a>
+
+-**PHC field reporting app** 
+A mobile-friendly Primary Health Care (PHC) Field Reporting App designed to digitize community health data collection in rural Nigeria. The application replaces paper-based HMIS forms with digital data capture for Community Health Workers. Patient visit records are stored in Microsoft Dataverse and made available through Power BI dashboards, enabling supervisors to access timely information for monitoring and decision-making.
+
+Key features:
+Mobile data entry · Dataverse integration · Real-time reporting · Power BI dashboard · User-friendly interface · Patient visit tracking
+Tools: Microsoft Power Apps · Microsoft Dataverse · Power BI · Microsoft 365
+
+<a href="https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/tree/main/field-reporting-app"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+-**E-commerce dashboard analysis** 
+An E-commerce Dashboard Analysis project focused on transforming e-commerce data into an interactive dashboard for analysis and reporting. The project includes an analysis report, a Medium report, and a dashboard screenshot within the repository.
+
+Key focus:
+E-commerce analytics · Data visualization · Dashboard development · Business insights · Performance analysis
+Tools: Microsoft Power Apps · Power BI · Data analysis
+
+<a href="https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/tree/main/ecommerce-dashboard-analysis"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+-**Leave approval flow**
+An automated leave approval workflow designed for Nigerian organisations using Microsoft 365 tools. The workflow digitizes leave requests, records them in SharePoint, routes them to a manager for approval, updates the approval status, and sends confirmation to the employee. The workflow captures information such as employee name, department, leave type, start and end dates, reason, and approval status.
+
+Key features:
+Microsoft Forms · Automated approvals · SharePoint leave log · Approval notifications · Audit trail · Status updates
+Tools: Microsoft Forms · Power Automate · SharePoint · Microsoft 365
+
+<a href="https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/tree/main/leave-approval-flow"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
 ---
 <!-- BOOKS & PUBLICATIONS -->
 
