@@ -143,6 +143,10 @@ This report presents an in-depth analytical overview of Manchester City’s Prem
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiM2YyNTM5N2MtOTVjMi00ZjA0LWI5MWMtNTc0OTUwZGMxNThlIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
+-**Coffymix retail sales performance report**: An interactive executive dashboard developed in Microsoft Power BI to analyse Coffymix Coffee Shop's 2024 sales performance. The project transforms more than 10,000 transactional records into actionable insights across sales performance, customer behaviour, product performance, city performance, payment methods, barista performance, and profitability. The three-page report includes an Executive Overview, Customer & Operational Insights, and Product Details view, giving management a centralized platform for monitoring performance and supporting data-driven decisions.
+
+<a href="https://github.com/Adenuga-Adeyemi/Coffymix-Retail-Sales-Performance-Report/tree/main"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
 -**Deli Grocery Sales Analysis Report** [View Project](https://medium.com/@adeyemi.da/deli-grocery-sales-analysis-report-278856f89054) 
 This report highlights a recent project where I designed a 4-page dynamic and interactive Power BI Dashboard for a food grocery store. The primary objective was to help business owners and managers quickly visualize key performance metrics, understand sales trends, and make informed decisions that align with customer needs.
 [*LinkedIn report*](https://www.linkedin.com/posts/pearladeyemi_datavisualization-dashboarddesign-darktheme-activity-7319269499419926529-0r6C) [
