@@ -1,4 +1,9 @@
 <h2 align="left">Hi 👋You're Welcome to my Portfolio!</h2>
+<div align="center">
+
+<a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B;You're+Welcome+to+My+Portfolio!;Explore+My+Data+%26+Technology+Journey+%F0%9F%9A%80" alt="Typing SVG" /> </a>
+
+</div>
 
 ###
 
