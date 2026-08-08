@@ -10,7 +10,6 @@
 
 <a href="https://github.com/Adenuga-Adeyemi"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Adeyemi+Adenuga;Data+Analyst;Business+Intelligence+%7C+Power+BI;Data+%26+AI+Educator;Academic+Writer+%26+Researcher" alt="Typing SVG" /> </a>
 
-<br/><br/>
 <img src="https://img.shields.io/badge/Data%20Analytics-Data%20Analyst-00A86B?style=for-the-badge&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-BI%20Developer-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
 <img src="https://img.shields.io/badge/Data%20%26%20AI-Educator-8E44AD?style=for-the-badge&logo=microsoftazure&logoColor=white" />
