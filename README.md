@@ -64,8 +64,6 @@
 
 ###
 ---
-## About Me
-
 <!-- ABOUT ME -->
 
 <img src="https://img.shields.io/badge/About%20Me-2F80ED?style=for-the-badge" />
