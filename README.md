@@ -95,26 +95,35 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 -**Customer Sales Report**[View Project](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/tree/main)
 This is a project based learning resources from Addidas Company. The project focused more of Customer based behaviour and organization performance over time. The project was carried out using Excel.
+<a href="https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/tree/main"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**Sales Analysis Report**[View Project](https://medium.com/@adeyemi.da/sales-analysis-report-fc558b5b3645)(Excel)
 Have you ever wondered what drives revenue growth in a competitive market? In today’s data-driven business environment, understanding sales trends and customer behaviors is crucial for making informed decisions. I recently conducted an in-depth sales analysis to uncover key trends, customer demographics, and product performance.
+<a href="https://medium.com/@adeyemi.da/sales-analysis-report-fc558b5b3645"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**HealthyLife Healthcare Dashboard** [View Project](https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md) (Excel):
 Designed a comprehensive dashboard for a local clinic, integrating patient demographics and medical records. Utilized SQL for data extraction and Power BI for visualization, enabling real-time insights into patient flow and resource allocation.
+<a href="https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**Nigeria Economic Pulse Dashboad** [View Project](https://www.datascienceportfol.io/pearladeyemi/projects/4)
 A synopsis driven by an A.I. Simulated Dataset, where I explored Nigeria’s economic activities and demographic dynamics over five years (2020–2024). This was inspired by my quest to know the major trending sector in Nigeria at the moment.
+<a href="https://www.datascienceportfol.io/pearladeyemi/projects/4"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**Storybook Anaylsis** [View Project](Excel)
+<a href="#"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**Gender Based Analysis** [View Project](Excel)
 Conducted gender trends analysis using Excel, creating interactive dashboards. Highlighted insights on gender distribution, age demographics, and financial behaviors. Proposed strategies to enhance gender diversity and financial literacy.
+<a href="#"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**Investment Preference Analysis** [View Project](Excel)
 Data Source: Cognifyz Technologies Data Analysis: Pivot Table (Sum, Count, Percentage) 
 I’ve also created a detailed presentation and Excel dashboard that captures these insights. If you’re interested, you can explore them here:
 [*Excel Dashboard Link*](https://lnkd.in/gTmP3q68)
 [*Presentation Slides*](https://lnkd.in/gvjZ64YN)
+<a href="https://lnkd.in/gTmP3q68"> <img src="https://img.shields.io/badge/Excel%20dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
+
+<a href="https://lnkd.in/gvjZ64YN"> <img src="https://img.shields.io/badge/Presentation-217346?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" /> </a>
 
 <!-- Power BI projects -->
 
@@ -122,68 +131,99 @@ I’ve also created a detailed presentation and Excel dashboard that captures th
 
 -**Mpox Trends in Africa** [View Project](https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) 
 This is an health intelligence report that provides a thorough examination of Mpox trends in Africa from January 2024 to August 2025 to highlight the evolving situation, key data insights, and public health implications.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Fitness Tracker** [View Project](https://app.powerbi.com/view?r=eyJrIjoiMmNhZDA0MzAtODAwOC00MjY0LWFhZjgtOTc1NDEzMDI5MWExIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) 
 This is a fitness log tracker dashboard that helps users monitor and analyze their workout progress over time. It displays key metrics such as BMI calculator, calories burned and client membership types in an easy-to-read format.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMmNhZDA0MzAtODAwOC00MjY0LWFhZjgtOTc1NDEzMDI5MWExIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Football Analytics** [View Project](https://medium.com/@adeyemi.da/manchester-city-premier-league-performance-analytics-af48ef98b116) 
 This report presents an in-depth analytical overview of Manchester City’s Premier League performance, using data visualizations built in Power BI and enriched with DAX-driven insights. The aim is to identify trends, draw meaningful findings based on performance data.[*Interact with PBIX*](https://app.powerbi.com/view?r=eyJrIjoiM2YyNTM5N2MtOTVjMi00ZjA0LWI5MWMtNTc0OTUwZGMxNThlIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) [Interact with Pbix](https://bit.ly/46WTinN)
+<a href="https://medium.com/@adeyemi.da/manchester-city-premier-league-performance-analytics-af48ef98b116"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiM2YyNTM5N2MtOTVjMi00ZjA0LWI5MWMtNTc0OTUwZGMxNThlIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Deli Grocery Sales Analysis Report** [View Project](https://medium.com/@adeyemi.da/deli-grocery-sales-analysis-report-278856f89054) 
 This report highlights a recent project where I designed a 4-page dynamic and interactive Power BI Dashboard for a food grocery store. The primary objective was to help business owners and managers quickly visualize key performance metrics, understand sales trends, and make informed decisions that align with customer needs.
 [*LinkedIn report*](https://www.linkedin.com/posts/pearladeyemi_datavisualization-dashboarddesign-darktheme-activity-7319269499419926529-0r6C) [
+<a href="https://medium.com/@adeyemi.da/deli-grocery-sales-analysis-report-278856f89054"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
+
+<a href="https://www.linkedin.com/posts/pearladeyemi_datavisualization-dashboarddesign-darktheme-activity-7319269499419926529-0r6C"> <img src="https://img.shields.io/badge/LinkedIn%20report-F2C811?style=for-the-badge&logo=linkedin&logoColor=black" /> </a>
 
 -**BMW Car Model Sales Analysis Report (2019–2023)** [View Project](https://medium.com/@adeyemi.da/bmw-car-model-sales-analysis-report-2019-2023-f812690be7b9)
 This report focuses on the sales performance of BMW car models across various global markets from January 2019 to December 2023. The analysis provides understanding of the factors driving revenue, car model popularity, and channel efficiency, helping stakeholders align their strategic planning with real-time transactional data.
+<a href="https://medium.com/@adeyemi.da/bmw-car-model-sales-analysis-report-2019-2023-f812690be7b9"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**US Superstore Sales Performance Analysis (Report as of 2017)**[View Project](https://medium.com/@adeyemi.da/us-superstore-sales-performance-analysis-report-as-of-2017-4a2c8b47fff6)
 This report analyzes the sales performance of the US Superstore between 2014 and 2017 to uncover insights that support strategic decision-making.
 [*Interact with Pbix file*](https://app.powerbi.com/view?r=eyJrIjoiZmI2MTYwMTEtZjYxMy00ZTAyLWEyNTQtNmIzOGUxZmEyYjk4IiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
+<a href="https://medium.com/@adeyemi.da/us-superstore-sales-performance-analysis-report-as-of-2017-4a2c8b47fff6"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZmI2MTYwMTEtZjYxMy00ZTAyLWEyNTQtNmIzOGUxZmEyYjk4IiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Citi Superstore Financial Performance Report** [View Project](https://medium.com/@adeyemi.da/citi-superstore-financial-performance-report-82b66811d124)
 The primary problem addressed by this report is to understand the financial performance of Citi Superstore by analyzing its sales, quantity sold, and order volumes. This understanding is crucial for informed decision-making, resource allocation, and strategic planning to optimize business operations and profitability.
 [*Interact with the PBIX file*](https://app.powerbi.com/view?r=eyJrIjoiMTMwZjQ1NjYtMjg0YS00MjAyLTkyOWUtMzk0MDRhMGFjYzcyIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
+<a href="https://medium.com/@adeyemi.da/citi-superstore-financial-performance-report-82b66811d124"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTMwZjQ1NjYtMjg0YS00MjAyLTkyOWUtMzk0MDRhMGFjYzcyIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Skyline Structures Sales Metrics & Performance Review (June-August 2021)** [View Project](https://medium.com/@adeyemi.da/skyline-structures-sales-metrics-performance-review-june-august-2021-3bbc43f5ebbf)
 This report provides an analysis of the sales performance data for Skyline Structures Engineering Firm. Understanding our sales trends, product line performance across warehouses, client types, product lines, and payment methods from June to August 2021. 
 [*Interact with Dashboard*](https://shorturl.at/knTzE)
+<a href="https://medium.com/@adeyemi.da/skyline-structures-sales-metrics-performance-review-june-august-2021-3bbc43f5ebbf"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
+
+<a href="https://shorturl.at/knTzE"> <img src="https://img.shields.io/badge/Interact%20with%20dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Ocean-Line Pharmaceutical: Unlocking Sales Insights for Strategic Growth** [View Project](https://medium.com/@adeyemi.da/ocean-line-pharmaceutical-unlocking-sales-insights-for-strategic-growth-355d51688167)
 This analysis aims to provide a detailed understanding of the company’s sales trends, product performance, and strategic opportunities from its annual sales report from 2017 to 2022.
+<a href="https://medium.com/@adeyemi.da/ocean-line-pharmaceutical-unlocking-sales-insights-for-strategic-growth-355d51688167"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Opay Financial Review Report (January to December 2024)** [View Project](https://medium.com/@adeyemi.da/opay-financial-review-report-january-to-december-2024-21521429adac)
 This report provides a comprehensive analysis of my personal financial activities conducted through Opay in the year 2024. The dashboard visualization outlines key performance indicators, spending categories, payment channels, and transaction behavior across all months.
+<a href="https://medium.com/@adeyemi.da/opay-financial-review-report-january-to-december-2024-21521429adac"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**RevByte Store Performance Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/README.md)(Excel & Power BI):
 Analyzed sales data for a retail company using Excel for data cleaning and Power BI for visual storytelling. This challenge tested my skills in data analytics and visualization, and I am thrilled to showcase the outcomes of my work.
+<a href="https://github.com/Adenuga-Adeyemi/Data-Diva-s-Hub/blob/main/README.md"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**Byte-Breakers Superstore Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Byte-Breakers-Superstores-Analysis/blob/main/README.md)(Excel & Power BI):
 Analyzed Byte-Breakers Superstore dataset (2014–2017) using Excel and Power BI to build an interactive dashboard and uncover actionable insights.
+<a href="https://github.com/Adenuga-Adeyemi/Byte-Breakers-Superstores-Analysis/blob/main/README.md"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**Amazon Electronic Sales Data (2011–2014)**[View Project](https://github.com/Adenuga-Adeyemi/Amazon-Electronic-Sales-Report-2011-2014)(Power BI):
 Analyzed Amazon Sales Performance Report from 2011-2014.
+<a href="https://github.com/Adenuga-Adeyemi/Amazon-Electronic-Sales-Report-2011-2014"> <img src="https://img.shields.io/badge/View%20project-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Samsung’s Market Positioning and Competitive Response in the Global Electronics Market (2011–2014)** [View Project](https://medium.com/@adeyemi.da/samsungs-market-positioning-and-competitive-response-in-the-global-electronics-market-2011-2014-d91712f00974)
 The sales report analyzes revenue, profitability, and sales trends from 2011 to 2014 using the Samsung Electronic Plus dataset. The analysis was conducted using Power BI, leveraging data transformation, DAX calculations, and visualization techniques to derive actionable insights.
+<a href="https://github.com/Adenuga-Adeyemi/Amazon-Electronic-Sales-Report-2011-2014"> <img src="https://img.shields.io/badge/View%20project-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Hotel Bookings Revenue and Performance Analysis Report** [View Project](https://medium.com/@pearlxta/hotel-bookings-revenue-and-performance-analysis-report-862581c6aa7b)
 Data was collected from a hotel bookings dataset comprising attributes related to reservations, guest details, stay duration, hotel type, pricing, and customer behaviors. Data was sourced in CSV format and imported into Power BI for further processing.
+<a href="https://medium.com/@pearlxta/hotel-bookings-revenue-and-performance-analysis-report-862581c6aa7b"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Twitter Sentiment Analysis**[View Project](https://github.com/Adenuga-Adeyemi/Twitter-Sentiment-Analysis/blob/main/README.md)(Power BI)
 This Twitter Sentiment Analysis project focuses on analyzing public opinions expressed on Twitter to determine the overall sentiment, whether positive, negative, or neutral, regarding a specific topic, brand, or event. The main objective is to uncover insights into how users feel about the subject matter by processing tweet data using sentiment classification techniques.
+="https://github.com/Adenuga-Adeyemi/Twitter-Sentiment-Analysis/blob/main/README.md"> <img src="https://img.shields.io/badge/View%20project-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Global Skincare and Beauty Performance E-Store Analysis** [View Project](https://medium.com/@adeyemi.da/global-skincare-and-beauty-performance-e-store-analysis-82e1e22c54be)
 In the ever-evolving digital marketplace, the skincare and beauty industry has experienced a significant shift toward e-commerce. Understanding performance metrics such as revenue, product popularity, regional impact, and customer behavior is essential for making informed business decisions. This project aims to analyze the global performance of a skincare and beauty e-store using comprehensive data visualization tools.
 [*Interact with the PBIX*](https://app.powerbi.com/view?r=eyJrIjoiMTYxNWM0YTItNjMyNS00MjgzLWFhM2ItZmUxMmVmNTlkZjhkIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9&disablecdnExpiration=1746486363)
+<a href="https://medium.com/@adeyemi.da/global-skincare-and-beauty-performance-e-store-analysis-82e1e22c54be"> <img src="https://img.shields.io/badge/View%20report-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTYxNWM0YTItNjMyNS00MjgzLWFhM2ItZmUxMmVmNTlkZjhkIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Analysing Bank Marketing Campaigns**[View Project](https://github.com/Adenuga-Adeyemi/Bank-Campaigns/blob/main/README.md) (Power BI)
 This project focused on analyzing bank marketing campaigns to provide actionable insights into campaign performance and customer demographics.
+<a href="https://github.com/Adenuga-Adeyemi/Bank-Campaigns/blob/main/README.md"> <img src="https://img.shields.io/badge/View%20project-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**Green Data Solution Challenge**[View Project](https://github.com/Adenuga-Adeyemi/Green-Data-Solutions-Challenge/blob/main/README.md) (Power BI)
+<a href="https://github.com/Adenuga-Adeyemi/Green-Data-Solutions-Challenge/blob/main/README.md"> <img src="https://img.shields.io/badge/View%20project-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 -**World Population Trends** [View Project](https://github.com/Adenuga-Adeyemi/World-Population-Trends) (Power BI)
 The focus was on analyzing the global population trends across the years 2020–2023 and providing insightful visualizations and recommendations.
-
+<a href="https://github.com/Adenuga-Adeyemi/World-Population-Trends"> <img src="https://img.shields.io/badge/View%20project-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
 <!-- SQL Projects -->
 
@@ -191,9 +231,11 @@ The focus was on analyzing the global population trends across the years 2020–
 
 -**North America Sales** [View Project](https://github.com/Adenuga-Adeyemi/North-America-Retail-Sales) (SQL):
 North America Retail is a major retail company operating in multiple locations, offering a wide range of products to different customer groups. The company prioritizes excellent customer service and a smooth shopping experience. This project analyzes sales data to uncover key insights on profitability, business performance, products, and customer behavior.
+<a href="https://github.com/Adenuga-Adeyemi/North-America-Retail-Sales"> <img src="https://img.shields.io/badge/View%20project-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </a>
 
 -**Analyzing Adventure Works 2022** [View Project](https://medium.com/@adeyemi.da/analyzing-adventureworks2022-a-structured-approach-with-sql-7b84efdd0b1e)
 The data used is from Microsoft’s AdventureWorks2022 sample database. It simulates an online transaction processing (OLTP) environment for Adventure Works Cycles, a fictional bicycle manufacturer and retailer.
+<a href="https://medium.com/@adeyemi.da/analyzing-adventureworks2022-a-structured-approach-with-sql-7b84efdd0b1e"> <img src="https://img.shields.io/badge/View%20project-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </a>
 
 <!-- Python Projects -->
 
@@ -201,10 +243,11 @@ The data used is from Microsoft’s AdventureWorks2022 sample database. It simul
 
 -**Covid 19 Cleaned Dataset Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Covid-19)
 This repository contains a cleaned dataset and analysis of COVID-19 data. The dataset has been processed for use in data analysis, visualization, and machine learning tasks. It includes information on cases, deaths, recoveries, and other relevant metrics related to the COVID-19 pandemic.
+<a href="https://github.com/Adenuga-Adeyemi/Covid-19"> <img src="https://img.shields.io/badge/View%20project-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </a>
 
 -**Exploratory Data Analysis on Weather Forecast** [View Project](https://github.com/Adenuga-Adeyemi/Python-Projects/blob/main/Weather%20Forecasts.md)
 The dataset used for this analysis is “Weather Dataset.csv”, which contains historical records of weather conditions. It includes features such as temperature, humidity, wind speed, visibility, pressure, and weather descriptions.
-
+<a href="https://github.com/Adenuga-Adeyemi/Python-Projects/blob/main/Weather%20Forecasts.md"> <img src="https://img.shields.io/badge/View%20project-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </a>
 
 <!-- Tableau Projects -->
 
@@ -212,6 +255,7 @@ The dataset used for this analysis is “Weather Dataset.csv”, which contains 
 
 -**US Sales Performance Analytics** [View Project](Tableau & Excel):
 Led a survey analytics project measuring peace-building initiatives in Lagos. Cleaned and analyzed survey data in Excel, then built Tableau dashboards to present results to local stakeholders.
+<a href="#"> <img src="https://img.shields.io/badge/View%20project-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> </a>
 
 <!-- Azure & AI projects -->
 
@@ -292,6 +336,15 @@ Microsoft Forms · Automated approvals · SharePoint leave log · Approval notif
 Tools: Microsoft Forms · Power Automate · SharePoint · Microsoft 365
 
 <a href="https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/tree/main/leave-approval-flow"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<!-- Microsoft Fabric projects -->
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-projects-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+-**Retail sales analytics with Microsoft Fabric** 
+An end-to-end retail sales analytics solution built with Microsoft Fabric to transform raw retail data into business-ready insights. The project uses the Medallion Architecture (Bronze → Silver → Gold) to ingest, clean, transform, model, and analyze retail order data. The solution is designed to help a retail business understand demand, identify top-performing products and seasonal trends, reduce inventory costs, and monitor sales performance through interactive Power BI dashboards.
+
+<a href="https://github.com/Adenuga-Adeyemi/Fabric-Projects/tree/main/Retail%20Inventory"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 ---
 <!-- BOOKS & PUBLICATIONS -->
