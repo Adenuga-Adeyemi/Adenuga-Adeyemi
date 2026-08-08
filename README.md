@@ -124,7 +124,6 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Excel-projects-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-### Excel
 -**Customer Sales Report**[View Project](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/tree/main)
 This is a project based learning resources from Addidas Company. The project focused more of Customer based behaviour and organization performance over time. The project was carried out using Excel.
 
@@ -148,7 +147,9 @@ I’ve also created a detailed presentation and Excel dashboard that captures th
 [*Excel Dashboard Link*](https://lnkd.in/gTmP3q68)
 [*Presentation Slides*](https://lnkd.in/gvjZ64YN)
 
-### Power BI
+<!-- Power BI projects -->
+
+<img src="https://img.shields.io/badge/Power%20BI-projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 -**Mpox Trends in Africa** [View Project](https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) 
 This is an health intelligence report that provides a thorough examination of Mpox trends in Africa from January 2024 to August 2025 to highlight the evolving situation, key data insights, and public health implications.
@@ -215,14 +216,20 @@ This project focused on analyzing bank marketing campaigns to provide actionable
 The focus was on analyzing the global population trends across the years 2020–2023 and providing insightful visualizations and recommendations.
 
 
-### SQL
+<!-- SQL Projects -->
+
+<img src="https://img.shields.io/badge/SQL-projects-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 -**North America Sales** [View Project](https://github.com/Adenuga-Adeyemi/North-America-Retail-Sales) (SQL):
 North America Retail is a major retail company operating in multiple locations, offering a wide range of products to different customer groups. The company prioritizes excellent customer service and a smooth shopping experience. This project analyzes sales data to uncover key insights on profitability, business performance, products, and customer behavior.
 
 -**Analyzing Adventure Works 2022** [View Project](https://medium.com/@adeyemi.da/analyzing-adventureworks2022-a-structured-approach-with-sql-7b84efdd0b1e)
 The data used is from Microsoft’s AdventureWorks2022 sample database. It simulates an online transaction processing (OLTP) environment for Adventure Works Cycles, a fictional bicycle manufacturer and retailer.
 
-### Python
+<!-- Python Projects -->
+
+<img src="https://img.shields.io/badge/Python-projects-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 -**Covid 19 Cleaned Dataset Analysis** [View Project](https://github.com/Adenuga-Adeyemi/Covid-19)
 This repository contains a cleaned dataset and analysis of COVID-19 data. The dataset has been processed for use in data analysis, visualization, and machine learning tasks. It includes information on cases, deaths, recoveries, and other relevant metrics related to the COVID-19 pandemic.
 
@@ -230,18 +237,31 @@ This repository contains a cleaned dataset and analysis of COVID-19 data. The da
 The dataset used for this analysis is “Weather Dataset.csv”, which contains historical records of weather conditions. It includes features such as temperature, humidity, wind speed, visibility, pressure, and weather descriptions.
 
 
-### Tableau
+<!-- Tableau Projects -->
+
+<img src="https://img.shields.io/badge/Tableau-projects-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
 -**US Sales Performance Analytics** [View Project](Tableau & Excel):
 Led a survey analytics project measuring peace-building initiatives in Lagos. Cleaned and analyzed survey data in Excel, then built Tableau dashboards to present results to local stakeholders.
 
-### Azure Data & AI
+<!-- Azure & AI projects -->
+
+<img src="https://img.shields.io/badge/Azure%20%26%20AI-projects-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
 -**AfroTech Web App: Scalable E-commerce Website App** [View Project](https://github.com/Adenuga-Adeyemi/Azure-Projects/blob/main/AfroTech%20Web%20App/Readme.md) (Azure):
 This repository contains the complete architecture, configuration files, and documentation for AfroTech, a cloud-native, scalable e-commerce web application deployed on Microsoft Azure. The solution leverages Azure services like App Service, Azure SQL Database, Azure Active Directory, Virtual Machines, Blob Storage, and DevOps Pipelines to deliver high availability, performance, and security.
 
-
-### Azure Data & AI
 -**Project SafeSure Cluster: Scalable Data Ingestion Pipeline** [View Project](https://github.com/Adenuga-Adeyemi/Azure-Projects/tree/main/project-safesure-cluster) (Azure):
 This repository contains the complete architecture, configuration files, and documentation for AfroTech, a cloud-native, scalable e-commerce web application deployed on Microsoft Azure. The solution leverages Azure services like App Service, Azure SQL Database, Azure Active Directory, Virtual Machines, Blob Storage, and DevOps Pipelines to deliver high availability, performance, and security.
+
+<!-- AWS projects -->
+
+<img src="https://img.shields.io/badge/AWS-projects-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+
+
+<!-- Power Apps Projects -->
+
+<img src="https://img.shields.io/badge/Power%20Apps-projects-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 
 ---
 <!-- BOOKS & PUBLICATIONS -->
