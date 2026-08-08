@@ -1,7 +1,12 @@
 <h2 align="left">Hi 👋You're Welcome to my Portfolio!</h2>
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B;You're+Welcome+to+My+Portfolio!;Explore+My+Data+%26+Technology+Journey+%F0%9F%9A%80" alt="Typing SVG" /> </a>
+<svg width="850" height="70" viewBox="0 0 850 70" xmlns="http://www.w3.org/2000/svg"> <defs> <linearGradient id="colorChange" x1="0%" y1="0%" x2="100%" y2="0%"> <stop offset="0%" stop-color="#2F80ED"> <animate attributeName="stop-color" values="#2F80ED;#00A86B;#8E44AD;#E67E22;#2F80ED" dur="6s" repeatCount="indefinite"/> </stop> <stop offset="100%" stop-color="#8E44AD"> <animate attributeName="stop-color" values="#8E44AD;#E67E22;#2F80ED;#00A86B;#8E44AD" dur="6s" repeatCount="indefinite"/> </stop> </linearGradient> </defs>
+
+<text x="425" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="url(#colorChange)">
+Hi 👋 You're Welcome to My Portfolio!
+</text>
+</svg>
 
 </div>
 
