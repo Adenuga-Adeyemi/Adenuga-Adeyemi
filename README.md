@@ -11,6 +11,33 @@
 <a href="https://github.com/Adenuga-Adeyemi"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Adeyemi+Adenuga;Data+Analyst;Business+Intelligence+%7C+Power+BI;Data+%26+AI+Educator;Academic+Writer+%26+Researcher" alt="Typing SVG" /> </a>
 
 <br/><br/>
+<img src="https://img.shields.io/badge/Data%20Analytics-Data%20Analyst-00A86B?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-BI%20Developer-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+<img src="https://img.shields.io/badge/Data%20%26%20AI-Educator-8E44AD?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Research-Academic%20Writer-E67E22?style=for-the-badge&logo=readthedocs&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/pearladeyemi" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" /> </a>
+
+<a href="mailto:pearlxta@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Mail&color=EA4335&logoColor=white&style=for-the-badge" height="25" alt="Gmail" /> </a>
+
+<a href="https://medium.com/@adeyemi.da" target="_blank"> <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=Follow&color=000000&logoColor=white&style=for-the-badge" height="25" alt="Medium" /> </a>
+
+<a href="https://www.youtube.com/@bytediarieswitha" target="_blank"> <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=Subscribe&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="YouTube" /> </a>
+
+</div>
+###
+
+<div align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Adeyemi+Adenuga;Data+Analyst;Business+Intelligence+%7C+Power+BI;Data+%26+AI+Educator;Academic+Writer+%26+Researcher" alt="Typing SVG" /> </a>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Data%20Analytics-Data%20Analyst-2F80ED?style=flat-square" /> <img src="https://img.shields.io/badge/Power%20BI-BI%20Developer-2F80ED?style=flat-square" /> <img src="https://img.shields.io/badge/Data%20%26%20AI-Educator-2F80ED?style=flat-square" /> <img src="https://img.shields.io/badge/Research-Academic%20Writer-2F80ED?style=flat-square" />
 
