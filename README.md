@@ -120,6 +120,10 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Projects-E67E22?style=for-the-badge" />
 
+<!-- Excel Projects -->
+
+<img src="https://img.shields.io/badge/Excel-projects-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
 ### Excel
 -**Customer Sales Report**[View Project](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/tree/main)
 This is a project based learning resources from Addidas Company. The project focused more of Customer based behaviour and organization performance over time. The project was carried out using Excel.
@@ -358,9 +362,9 @@ This repository contains the complete architecture, configuration files, and doc
 </div>
 
 ---
-<!-- LET'S CONNECT -->
+<!-- FUN FACT -->
 
-<img src="https://img.shields.io/badge/Let's%20Connect-4527A0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fun%20Fact-F9A825?style=for-the-badge" />
 
 I am known for my enthusiasm for continuous learning and networking. Meeting new people and exploring different perspectives is something I truly enjoy!
 
