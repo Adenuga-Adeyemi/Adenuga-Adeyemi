@@ -5,11 +5,6 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-###
 <div align="center">
 
 <a href="https://github.com/Adenuga-Adeyemi"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=My+name+is+Adeyemi+Adenuga;Data+Analyst;Business+Intelligence+%7C+Power+BI;Data+%26+AI+Educator;Academic+Writer+%26+Researcher" alt="Typing SVG" /> </a>
