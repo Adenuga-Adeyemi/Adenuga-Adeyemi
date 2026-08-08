@@ -6,6 +6,19 @@
 </div>
 
 ###
+<div align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Adeyemi+Adenuga;Data+Analyst;Business+Intelligence+%7C+Power+BI;Data+%26+AI+Educator;Academic+Writer+%26+Researcher" alt="Typing SVG" /> </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-Data%20Analyst-2F80ED?style=flat-square" /> <img src="https://img.shields.io/badge/Power%20BI-BI%20Developer-2F80ED?style=flat-square" /> <img src="https://img.shields.io/badge/Data%20%26%20AI-Educator-2F80ED?style=flat-square" /> <img src="https://img.shields.io/badge/Research-Academic%20Writer-2F80ED?style=flat-square" />
+
+</div>
+
+<br/>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pearladeyemi" target="_blank">
