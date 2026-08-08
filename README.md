@@ -227,6 +227,29 @@ This repository contains the complete architecture, configuration files, and doc
 
 <img src="https://img.shields.io/badge/AWS-projects-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 
+-**AWS account creation and setup**  
+A beginner-friendly AWS cloud setup project documenting the process of creating and activating an AWS account, including account verification, contact and billing information, identity verification, support-plan selection, and access to the AWS Management Console.
+
+Key areas covered:
+AWS account setup · Identity verification · Billing setup · AWS Management Console · Free Tier · Account troubleshooting
+
+<a href="https://github.com/Adenuga-Adeyemi/AWS-Projects/blob/main/Creating%20AWS%20Account.md"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+-**AWS IAM user and security setup**   
+A practical AWS Identity and Access Management project focused on creating IAM users, managing permissions through groups and policies, enabling MFA, configuring account aliases, setting billing alerts, and moving away from routine root-user access.
+
+Key areas covered:
+IAM users · IAM groups · IAM policies · MFA · Access control · Least privilege · Billing alerts · CloudTrail
+
+<a href="https://github.com/Adenuga-Adeyemi/AWS-Projects/blob/main/Set%20Up%20IAM%20User%20Role.md"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+-**AWS ETL pipeline**   
+An AWS ETL pipeline project demonstrating a structured approach to data extraction, transformation, and loading using AWS services. The project repository includes an ETL configuration file (orders_etl.json) and supporting documentation.
+
+Key areas covered:
+ETL · Data pipelines · AWS cloud services · Data transformation · Data integration · Pipeline configuration
+
+<a href="https://github.com/Adenuga-Adeyemi/AWS-Projects/tree/main/AWS%20ETL%20Pipeline"> <img src="https://img.shields.io/badge/View%20project-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 <!-- Power Apps Projects -->
 
