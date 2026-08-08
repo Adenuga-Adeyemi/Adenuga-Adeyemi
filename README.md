@@ -85,7 +85,9 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 ---
 
-## Skills
+<!-- SKILLS -->
+
+<img src="https://img.shields.io/badge/Skills-00A86B?style=for-the-badge" />
 
 - **Data Analysis & Visualization**: Understand and organize data, interpreting, cleaning, and modeling complex datasets; crafting impactful visualizations and dashboards.
 - **Statistical Analysis**: Applying statistical methods to validate findings, on Hypothesis Testing using ANOVA, Paired and Unpaired t-test, Regression Analysis, Univariate Analysis, Multivariate Analysis, Factor Analysis, Covariate Analysis, Correlation, Chi-Square tests.
