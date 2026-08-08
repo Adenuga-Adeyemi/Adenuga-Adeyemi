@@ -47,28 +47,11 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/pearladeyemi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="http://mail.google.com/pearlxta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Mail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://medium.com/@adeyemi.da" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=Follow&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </a>
-  <a href="https://www.youtube.com/@bytediarieswitha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Subscribe&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
 ###
 ---
 <!-- ABOUT ME -->
 
 <img src="https://img.shields.io/badge/About%20Me-2F80ED?style=for-the-badge" />
-
-<br/>
 
 I am a passionate Data Analyst and Academic Writer based in Lagos, Nigeria, with over 6 years of experience delivering assistance in academic work, published articles, NVQ assessments, and technical writing. I specialize in transforming complex data into clear insights that drive smarter decisions. With expertise in tools like SPSS, Microsoft Office Suites (Excel, Word, PowerPoint, Access, Outlook), SQL, Power BI, Python,Tableau, and Fabric, I enjoy working on projects related to Health Informatics, helping organizations and individuals understand and leverage their data for better outcomes.
 
@@ -79,12 +62,13 @@ I am committed to promoting peace and positive change in my community, believing
 I love connecting with like-minded professionals and expanding my network. I am always eager to learn from others, collaborate, and exchange ideas that inspire growth.
 
 ---
+<!-- MISSION -->
 
-## Mission
+<img src="https://img.shields.io/badge/Mission-6A1B9A?style=for-the-badge" />
+
 My mission is to empower organizations and individuals to make data-driven decisions that foster better outcomes in health, business, and community development. I am focused on leveraging analytics and academic research to uncover actionable insights, bridge gaps in understanding, and advocate for positive societal change, especially in the fields of data analytics.
 
 ---
-
 <!-- SKILLS -->
 
 <img src="https://img.shields.io/badge/Skills-00A86B?style=for-the-badge" />
@@ -98,8 +82,9 @@ My mission is to empower organizations and individuals to make data-driven decis
 - **Communication & Problem Solving**: Tackling analytical challenges with creativity and precision.
   
 ---
+<!-- TOOLS & TECHNOLOGIES -->
 
-## Tools
+<img src="https://img.shields.io/badge/Tools%20%26%20Technologies-F2C811?style=for-the-badge" />
 
 - **Academic Writing Tools**: Grammarly / Hemingway, Zotero / Mendeley, EndNote, Turnitin / Plagiarism Checkers, Overleaf (LaTeX)
 - **Statistical Tools**: SPSS, Eviews, Nvivo
@@ -113,8 +98,10 @@ My mission is to empower organizations and individuals to make data-driven decis
 - **Microsoft Azure AI Fundamentals (AI-900)**: Natural Learning Processing, AI Vision, Generative AI fundamentals.
 
 ---
+<!-- CERTIFICATIONS -->
 
-## Certifications
+<img src="https://img.shields.io/badge/Certifications-8E44AD?style=for-the-badge" />
+
 - Microsoft Certified: Fabric Data Analytics Engineer Associate (DP-600) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-600.png)
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png)
 - Microsoft Azure AI Fundamentals Certified (AI-900) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png)
@@ -129,8 +116,9 @@ My mission is to empower organizations and individuals to make data-driven decis
 - Introduction to Python by DataCamp - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Python.png)
 
 ---
+<!-- PROJECTS -->
 
-## Projects
+<img src="https://img.shields.io/badge/Projects-E67E22?style=for-the-badge" />
 
 ### Excel
 -**Customer Sales Report**[View Project](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/tree/main)
@@ -252,7 +240,9 @@ This repository contains the complete architecture, configuration files, and doc
 This repository contains the complete architecture, configuration files, and documentation for AfroTech, a cloud-native, scalable e-commerce web application deployed on Microsoft Azure. The solution leverages Azure services like App Service, Azure SQL Database, Azure Active Directory, Virtual Machines, Blob Storage, and DevOps Pipelines to deliver high availability, performance, and security.
 
 ---
-## Books Written
+<!-- BOOKS & PUBLICATIONS -->
+
+<img src="https://img.shields.io/badge/Books%20%26%20Publications-D14836?style=for-the-badge" />
 
 | Title | Year | Writer | Description |
 |-------|------|-----------|-------------|
@@ -263,8 +253,9 @@ This repository contains the complete architecture, configuration files, and doc
 
 
 ---
+<!-- ARTICLES -->
 
-## Articles Published
+<img src="https://img.shields.io/badge/Articles-795548?style=for-the-badge" />
 
 | Title | Journal/Platform | Date | Link |
 |-------|------------------|------|------|
@@ -283,8 +274,9 @@ This repository contains the complete architecture, configuration files, and doc
 | *Understanding SQL Query: A Step-by-Step Analysis* | Medium | Feb 2025 | [Read Here](https://medium.com/@adeyemi.da/understanding-sql-query-a-step-by-step-analysis-b19ba5193390) |
 
 ---
+<!-- NVQ ASSESSMENTS -->
 
-## NVQ Assessments 
+<img src="https://img.shields.io/badge/NVQ%20Assessments-C62828?style=for-the-badge" />
 
 | Project/Unit | Qualification Title | Level | Client/University | Description |
 |--------------|------|-------|---------------|-------------|
@@ -292,8 +284,10 @@ This repository contains the complete architecture, configuration files, and doc
 | Health and Social Care Level 3 Diploma | MCQ & CPD Accredited Course | 3 | Academy of Health & Fitness, UK [View Course](uk.fhonline.org/course/health-and-social-care-level-3-diploma/) | Supported clients in meeting unit outcomes and performance criteria. |
 
 ---
+<!-- ACADEMIC PROJECTS & CAPSTONES -->
 
-## Academic Projects & Capstones
+<img src="https://img.shields.io/badge/Academic%20Projects%20%26%20Capstones-00897B?style=for-the-badge" />
+
 
 | Title | Degree/Course | Year | Client/University | Tools Used |
 |-------|-------|------|-------------------|-------------|
@@ -313,8 +307,9 @@ This repository contains the complete architecture, configuration files, and doc
 | *Impact of New Technology Applications on the Performance of Project Management: A case study of AI Applications and Trends in the Marketing Communications Consulting Firms* | MSc International Project Management | 2024 | Northumbria University, Newcastle, UK | Qualitative and Thematic Analysis |
 
 ---
+<!-- HELPFUL RESOURCES -->
 
-## Helpful Resources
+<img src="https://img.shields.io/badge/Helpful%20Resources-1565C0?style=for-the-badge" />
 
 ### Writing & Research
 
@@ -332,8 +327,9 @@ This repository contains the complete architecture, configuration files, and doc
 - [Tableau Public](https://public.tableau.com/)
 
 ---
+<!-- TESTIMONIALS -->
 
-## Testimonials
+<img src="https://img.shields.io/badge/Testimonials-AD1457?style=for-the-badge" />
 
 > “A reliable and professional academic writer. Excellent attention to detail.”  
 > — Mr. Hassan Jafar, MSc. Project Management Cardiff Met University
@@ -342,15 +338,30 @@ This repository contains the complete architecture, configuration files, and doc
 > — Oguntade D., Care Worker
 
 ---
+<!-- LET'S CONNECT -->
 
-## Let’s Connect:
+<img src="https://img.shields.io/badge/Let's%20Connect-4527A0?style=for-the-badge" />
 
-LinkedIn: https://www.linkedin.com/in/pearladeyemi
-Medium: https://medium.com/@adeyemi.da
+<div align="left">
+  <a href="https://www.linkedin.com/in/pearladeyemi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="http://mail.google.com/pearlxta@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Mail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@adeyemi.da" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=Follow&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://www.youtube.com/@bytediarieswitha" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=Subscribe&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
 
 ---
+<!-- LET'S CONNECT -->
 
-## Fun Fact:
+<img src="https://img.shields.io/badge/Let's%20Connect-4527A0?style=for-the-badge" />
+
 I am known for my enthusiasm for continuous learning and networking. Meeting new people and exploring different perspectives is something I truly enjoy!
 
 ---
