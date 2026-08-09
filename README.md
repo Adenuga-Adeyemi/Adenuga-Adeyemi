@@ -752,12 +752,8 @@ I am known for my enthusiasm for continuous learning and networking. Meeting new
 <br><br>
 
  <!-- Top languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenuga-Adeyemi&layout=compact&langs_count=6&hide_title=true&theme=transparent"
-    height="150"
-    alt="Most used programming languages"
-  />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenuga-Adeyemi&layout=compact&langs_count=6&hide_title=true&theme=transparent" height="150" alt="Top languages"/>
 </p>
 
 <p align="center">
