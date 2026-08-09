@@ -150,10 +150,9 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Certifications-8E44AD?style=for-the-badge" />
 
+
 <table align="center">
-  
-  <!-- Row 1 -->
-  <tr>
+
 
     <!-- DP-800 -->
     <td align="center" width="33%">
