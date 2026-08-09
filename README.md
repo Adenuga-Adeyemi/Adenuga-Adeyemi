@@ -59,56 +59,74 @@ My mission is to empower organizations and individuals to make data-driven decis
 
   <!-- Microsoft Excel -->
   <a href="https://www.microsoft.com/microsoft-365/excel">
-    <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"
-         width="55" height="55" alt="Microsoft Excel"/>
-  </a>&nbsp;&nbsp;
+    <img src="./assets/icons/excel.svg"
+         width="55"
+         height="55"
+         alt="Microsoft Excel"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Power BI -->
   <a href="https://www.microsoft.com/power-platform/products/power-bi">
-    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"
-         width="55" height="55" alt="Power BI"/>
-  </a>&nbsp;&nbsp;
+    <img src="./assets/icons/power-bi.svg"
+         width="55"
+         height="55"
+         alt="Power BI"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Tableau -->
   <a href="https://www.tableau.com/">
-    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"
-         width="55" height="55" alt="Tableau"/>
-  </a>&nbsp;&nbsp;
+    <img src="./assets/icons/tableau.svg"
+         width="55"
+         height="55"
+         alt="Tableau"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Google Sheets -->
   <a href="https://www.google.com/sheets/about/">
-    <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"
-         width="55" height="55" alt="Google Sheets"/>
-  </a>&nbsp;&nbsp;
+    <img src="./assets/icons/google-sheets.svg"
+         width="55"
+         height="55"
+         alt="Google Sheets"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Power Apps -->
   <a href="https://www.microsoft.com/power-platform/products/power-apps">
-    <img src="https://img.shields.io/badge/-Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white"
-         width="55" height="55" alt="Power Apps"/>
-  </a>&nbsp;&nbsp;
+    <img src="./assets/icons/power-apps.svg"
+         width="55"
+         height="55"
+         alt="Power Apps"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Power Automate -->
   <a href="https://www.microsoft.com/power-platform/products/power-automate">
-    <img src="https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"
-         width="55" height="55" alt="Power Automate"/>
-  </a>&nbsp;&nbsp;
+    <img src="./assets/icons/power-automate.svg"
+         width="55"
+         height="55"
+         alt="Power Automate"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Microsoft Fabric -->
   <a href="https://www.microsoft.com/microsoft-fabric">
-    <img src="https://img.shields.io/badge/-Microsoft%20Fabric-5C2D91?style=flat-square&logo=microsoftfabric&logoColor=white"
-         width="55" height="55" alt="Microsoft Fabric"/>
-  </a>&nbsp;&nbsp;
+    <img src="./assets/icons/fabric.svg"
+         width="55"
+         height="55"
+         alt="Microsoft Fabric"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Microsoft Azure -->
   <a href="https://azure.microsoft.com/">
-    <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"
-         width="55" height="55" alt="Microsoft Azure"/>
-  </a>&nbsp;&nbsp;
+    <img src="./assets/icons/azure.svg"
+         width="55"
+         height="55"
+         alt="Microsoft Azure"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- AWS -->
   <a href="https://aws.amazon.com/">
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"
-         width="55" height="55" alt="Amazon Web Services"/>
+    <img src="./assets/icons/aws.svg"
+         width="55"
+         height="55"
+         alt="Amazon Web Services"/>
   </a>
 
 </p>
