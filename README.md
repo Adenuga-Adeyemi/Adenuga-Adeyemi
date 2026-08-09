@@ -150,6 +150,168 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Certifications-8E44AD?style=for-the-badge" />
 
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-600.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-600.png" width="280">
+</a>
+
+<br><br>
+<b>Fabric Data Analytics Engineer Associate</b>
+<br>
+<sub>DP-600</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/PL300.png" width="280">
+</a>
+
+<br><br>
+<b>Power BI Data Analyst Associate</b>
+<br>
+<sub>PL-300</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Micosoft%20Azure%20AI%20Fundamentals.png" width="280">
+</a>
+
+<br><br>
+<b>Azure AI Fundamentals</b>
+<br>
+<sub>AI-900</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Azure%20Data%20Fundamentals.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Azure%20Data%20Fundamentals.png" width="280">
+</a>
+
+<br><br>
+<b>Azure Data Fundamentals</b>
+<br>
+<sub>DP-900</sub>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/AI%20Fluency.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/AI%20Fluency.png" width="280">
+</a>
+
+<br><br>
+<b>AI Fluency</b>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Introduction%20to%20SQL.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Introduction%20to%20SQL.png" width="280">
+</a>
+
+<br><br>
+<b>Introduction to SQL</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Intermediate%20SQL.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Intermediate%20SQL.png" width="280">
+</a>
+
+<br><br>
+<b>Intermediate SQL</b>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Cloud%20Computing.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Cloud%20Computing.png" width="280">
+</a>
+
+<br><br>
+<b>Cloud Computing with Azure</b>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Microsoft%20Copilot.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Microsoft%20Copilot.png" width="280">
+</a>
+
+<br><br>
+<b>Microsoft Copilot Studio</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Academic%20Writing.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Academic%20Writing.png" width="280">
+</a>
+
+<br><br>
+<b>Academic Writing for Research Excellence</b>
+<br>
+<sub>Uniathena</sub>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Python.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Python.png" width="280">
+</a>
+
+<br><br>
+<b>Introduction to Python</b>
+<br>
+<sub>DataCamp</sub>
+
+</td>
+
+<td align="center">
+
+<!-- Add your Digital Skills Nigeria PL-300 certificate here -->
+
+<b>Microsoft Certified Data Analyst</b>
+<br>
+<sub>PL-300 · Digital Skills Nigeria</sub>
+
+</td>
+
+</tr>
+</table>
+
+
 - Microsoft Certified: Fabric Data Analytics Engineer Associate (DP-600) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-600.png)
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png)
 - Microsoft Azure AI Fundamentals Certified (AI-900) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png)
