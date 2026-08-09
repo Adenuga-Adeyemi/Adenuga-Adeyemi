@@ -57,76 +57,49 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <p align="center">
 
-  <!-- Microsoft Excel -->
-  <a href="https://www.microsoft.com/microsoft-365/excel">
-    <img src="./assets/icons/excel.svg"
-         width="55"
-         height="55"
-         alt="Microsoft Excel"/>
-  </a>&nbsp;&nbsp;&nbsp;
+ <!-- Microsoft Excel -->
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  </a>
 
   <!-- Power BI -->
-  <a href="https://www.microsoft.com/power-platform/products/power-bi">
-    <img src="./assets/icons/power-bi.svg"
-         width="55"
-         height="55"
-         alt="Power BI"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  </a>
 
   <!-- Tableau -->
-  <a href="https://www.tableau.com/">
-    <img src="./assets/icons/tableau.svg"
-         width="55"
-         height="55"
-         alt="Tableau"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  </a>
 
   <!-- Google Sheets -->
-  <a href="https://www.google.com/sheets/about/">
-    <img src="./assets/icons/google-sheets.svg"
-         width="55"
-         height="55"
-         alt="Google Sheets"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.google.com/sheets/about/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+  </a>
 
   <!-- Power Apps -->
-  <a href="https://www.microsoft.com/power-platform/products/power-apps">
-    <img src="./assets/icons/power-apps.svg"
-         width="55"
-         height="55"
-         alt="Power Apps"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/power-platform/products/power-apps" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Microsoft Power Apps"/>
+  </a>
 
   <!-- Power Automate -->
-  <a href="https://www.microsoft.com/power-platform/products/power-automate">
-    <img src="./assets/icons/power-automate.svg"
-         width="55"
-         height="55"
-         alt="Power Automate"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/power-platform/products/power-automate" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Microsoft Power Automate"/>
+  </a>
 
   <!-- Microsoft Fabric -->
-  <a href="https://www.microsoft.com/microsoft-fabric">
-    <img src="./assets/icons/fabric.svg"
-         width="55"
-         height="55"
-         alt="Microsoft Fabric"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/microsoft-fabric" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Fabric-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
+  </a>
 
   <!-- Microsoft Azure -->
-  <a href="https://azure.microsoft.com/">
-    <img src="./assets/icons/azure.svg"
-         width="55"
-         height="55"
-         alt="Microsoft Azure"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  </a>
 
   <!-- AWS -->
-  <a href="https://aws.amazon.com/">
-    <img src="./assets/icons/aws.svg"
-         width="55"
-         height="55"
-         alt="Amazon Web Services"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="Amazon Web Services"/>
   </a>
 
 </p>
