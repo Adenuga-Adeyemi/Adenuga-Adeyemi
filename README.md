@@ -311,7 +311,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 <br><br>
 <b>AI Fluency</b>
 <br>
-<sub>Elevate</sub>
+<sub>Microsoft Elevate</sub>
 </td>
 
 </tr>
@@ -329,11 +329,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 <b>DSN AI Bootcamp</b>
 </td>
 
-<td></td>
-<td></td>
-
-</tr>
-
+<!-- Institute of Global Peace and Conflict Management -->
 <td align="center">
 <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Human%20Rights%20%26%20Justice.png">
 <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Human%20Rights%20%26%20Justice.png" width="280" alt="Human Rights and Justice">
