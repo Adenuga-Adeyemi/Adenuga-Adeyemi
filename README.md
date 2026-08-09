@@ -301,13 +301,38 @@ My mission is to empower organizations and individuals to make data-driven decis
 <sub>DataCamp</sub>
 </td>
 
-<td></td>
+<!-- AI Fluency - Elevate -->
+<td align="center">
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/AI%20Fluency%20Elevate.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/AI%20Fluency%20Elevate.png"
+     width="280"
+     alt="AI Fluency - Elevate">
+</a>
+<br><br>
+<b>AI Fluency</b>
+<br>
+<sub>Elevate</sub>
+</td>
 
 </tr>
 
 <tr>
 
+<!-- DSN AI Bootcamp -->
+<td align="center">
+<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DSN%20AI%20Bootcamp.png">
+<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DSN%20AI%20Bootcamp.png"
+     width="280"
+     alt="DSN AI Bootcamp">
+</a>
+<br><br>
+<b>DSN AI Bootcamp</b>
+</td>
+
 <td></td>
+<td></td>
+
+</tr>
 
 <td align="center">
 <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Human%20Rights%20%26%20Justice.png">
