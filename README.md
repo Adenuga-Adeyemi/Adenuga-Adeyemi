@@ -57,41 +57,50 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <p align="center">
 
-<a href="https://www.microsoft.com/microsoft-365/excel">
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Excel"/>
-</a>
+  <!-- Microsoft Excel -->
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" height="50" alt="Microsoft Excel"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.microsoft.com/power-platform/products/power-bi">
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/>
-</a>
+  <!-- Power BI -->
+  <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
+    <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" height="50" alt="Power BI"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.tableau.com/">
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="45" height="45" alt="Tableau"/>
-</a>
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" height="50" alt="Tableau"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.google.com/sheets/about/">
-<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="45" height="45" alt="Google Sheets"/>
-</a>
+  <!-- Google Sheets -->
+  <a href="https://www.google.com/sheets/about/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="50" height="50" alt="Google Sheets"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.microsoft.com/power-platform/products/power-apps">
-<img src="https://cdn.simpleicons.org/powerapps/742774" width="45" height="45" alt="Power Apps"/>
-</a>
+  <!-- Microsoft Power Apps -->
+  <a href="https://www.microsoft.com/power-platform/products/power-apps" target="_blank">
+    <img src="https://cdn.simpleicons.org/microsoftpowerapps/742774" width="50" height="50" alt="Power Apps"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.microsoft.com/power-platform/products/power-automate">
-<img src="https://cdn.simpleicons.org/powerautomate/0066FF" width="45" height="45" alt="Power Automate"/>
-</a>
+  <!-- Microsoft Power Automate -->
+  <a href="https://www.microsoft.com/power-platform/products/power-automate" target="_blank">
+    <img src="https://cdn.simpleicons.org/microsoftpowerautomate/0066FF" width="50" height="50" alt="Power Automate"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.microsoft.com/microsoft-fabric">
-<img src="https://cdn.simpleicons.org/microsoftfabric/5C2D91" width="45" height="45" alt="Microsoft Fabric"/>
-</a>
+  <!-- Microsoft Fabric -->
+  <a href="https://www.microsoft.com/microsoft-fabric" target="_blank">
+    <img src="https://cdn.simpleicons.org/microsoftfabric/5C2D91" width="50" height="50" alt="Microsoft Fabric"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://azure.microsoft.com/">
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="45" height="45" alt="Azure"/>
-</a>
+  <!-- Microsoft Azure -->
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="50" height="50" alt="Microsoft Azure"/>
+  </a>&nbsp;&nbsp;
 
-<a href="https://aws.amazon.com/">
-<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="45" height="45" alt="AWS"/>
-</a>
+  <!-- Amazon Web Services -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="50" height="50" alt="Amazon Web Services"/>
+  </a>
 
 </p>
 
