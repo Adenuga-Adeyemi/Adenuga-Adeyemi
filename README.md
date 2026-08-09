@@ -751,20 +751,25 @@ I am known for my enthusiasm for continuous learning and networking. Meeting new
 
 <br><br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenuga-Adeyemi&layout=compact&langs_count=6&hide_title=true&theme=transparent&border_radius=10"
-  height="150"
-  alt="Top programming languages"
-/>
+ <!-- Top languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenuga-Adeyemi&layout=compact&langs_count=6&hide_title=true&theme=transparent"
+    height="150"
+    alt="Most used programming languages"
+  />
 
-<br><br>
+</p>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=Profile%20Views&color=2F80ED&style=for-the-badge"
-  alt="Profile views"
-/>
+<p align="center">
 
-</div>
+  <!-- Profile views -->
+  <img
+    src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=Profile%20Views&color=2F80ED&style=for-the-badge"
+    alt="GitHub profile views"
+  />
+
+</p>
+
 ---
 
 <!--
