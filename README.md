@@ -325,19 +325,6 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 </table>
 
-- Microsoft Certified: Fabric Data Analytics Engineer Associate (DP-600) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-600.png)
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png)
-- Microsoft Azure AI Fundamentals Certified (AI-900) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png)
-- Azure Data Fundamentals (DP-900) offered by Digital Skills Nigeria - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Azure%20Data%20Fundamentals.png)
-- Microsoft Certified Data Analyst (PL-300) offered by Digital Skills Nigeria - [View Certificate]()
-- AI Fluency - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/AI%20Fluency.png)
-- Introduction to SQL -[View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Introduction%20to%20SQL.png)
-- Intermediate SQL - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Intermediate%20SQL.png)
-- Understanding Cloud Computing with Azure - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Cloud%20Computing.png)
-- Introduction to Microsoft Copilot Studio - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Microsoft%20Copilot.png)
-- Academic Writing for Research Excellence by Uniathena - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Academic%20Writing.png)
-- Introduction to Python by DataCamp - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Python.png)
-
 ---
 <!-- PROJECTS -->
 
