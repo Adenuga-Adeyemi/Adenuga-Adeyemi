@@ -759,11 +759,8 @@ I am known for my enthusiasm for continuous learning and networking. Meeting new
 <p align="center">
 
   <!-- Profile views -->
-  <img
-    src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=Profile%20Views&color=2F80ED&style=for-the-badge"
-    alt="GitHub profile views"
-  />
-
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=PROFILE+VIEWS&color=2F80ED&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
