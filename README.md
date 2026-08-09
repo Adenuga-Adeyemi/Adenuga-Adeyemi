@@ -102,10 +102,6 @@ My mission is to empower organizations and individuals to make data-driven decis
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="Amazon Web Services"/>
   </a>
 
-</p>
-
-<p align="center">
-
   <!-- SQL -->
   <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
