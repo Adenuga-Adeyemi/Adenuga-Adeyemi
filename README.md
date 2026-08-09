@@ -57,61 +57,62 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <p align="center">
 
-   <!-- Microsoft Excel -->
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftexcel.svg"
-         width="50" height="50" alt="Microsoft Excel"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <!-- Microsoft Excel -->
+  <a href="https://www.microsoft.com/microsoft-365/excel">
+    <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"
+         width="55" height="55" alt="Microsoft Excel"/>
+  </a>&nbsp;&nbsp;
 
   <!-- Power BI -->
-  <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg"
-         width="50" height="50" alt="Power BI"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/power-platform/products/power-bi">
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"
+         width="55" height="55" alt="Power BI"/>
+  </a>&nbsp;&nbsp;
 
   <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg"
-         width="50" height="50" alt="Tableau"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tableau.com/">
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"
+         width="55" height="55" alt="Tableau"/>
+  </a>&nbsp;&nbsp;
 
   <!-- Google Sheets -->
-  <a href="https://www.google.com/sheets/about/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlesheets.svg"
-         width="50" height="50" alt="Google Sheets"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.google.com/sheets/about/">
+    <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"
+         width="55" height="55" alt="Google Sheets"/>
+  </a>&nbsp;&nbsp;
 
   <!-- Power Apps -->
-  <a href="https://www.microsoft.com/power-platform/products/power-apps" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerapps.svg"
-         width="50" height="50" alt="Power Apps"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/power-platform/products/power-apps">
+    <img src="https://img.shields.io/badge/-Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white"
+         width="55" height="55" alt="Power Apps"/>
+  </a>&nbsp;&nbsp;
 
   <!-- Power Automate -->
-  <a href="https://www.microsoft.com/power-platform/products/power-automate" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerautomate.svg"
-         width="50" height="50" alt="Power Automate"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/power-platform/products/power-automate">
+    <img src="https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"
+         width="55" height="55" alt="Power Automate"/>
+  </a>&nbsp;&nbsp;
 
   <!-- Microsoft Fabric -->
-  <a href="https://www.microsoft.com/microsoft-fabric" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftfabric.svg"
-         width="50" height="50" alt="Microsoft Fabric"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/microsoft-fabric">
+    <img src="https://img.shields.io/badge/-Microsoft%20Fabric-5C2D91?style=flat-square&logo=microsoftfabric&logoColor=white"
+         width="55" height="55" alt="Microsoft Fabric"/>
+  </a>&nbsp;&nbsp;
 
   <!-- Microsoft Azure -->
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftazure.svg"
-         width="50" height="50" alt="Microsoft Azure"/>
-  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/">
+    <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"
+         width="55" height="55" alt="Microsoft Azure"/>
+  </a>&nbsp;&nbsp;
 
-  <!-- Amazon Web Services -->
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/amazonwebservices.svg"
-         width="50" height="50" alt="Amazon Web Services"/>
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"
+         width="55" height="55" alt="Amazon Web Services"/>
   </a>
 
 </p>
+
 - **Academic Writing Tools**: Grammarly / Hemingway, Zotero / Mendeley, EndNote, Turnitin / Plagiarism Checkers, Overleaf (LaTeX)
 - **Statistical Tools**: SPSS, Eviews, Nvivo
 - **Design**: Canva, PowerPoint, CapCut, OBS Studio, etc.
