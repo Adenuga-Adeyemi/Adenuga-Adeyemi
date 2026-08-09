@@ -57,53 +57,61 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <p align="center">
 
-  <!-- Microsoft Excel -->
+   <!-- Microsoft Excel -->
   <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" height="50" alt="Microsoft Excel"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftexcel.svg"
+         width="50" height="50" alt="Microsoft Excel"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Power BI -->
   <a href="https://www.microsoft.com/power-platform/products/power-bi" target="_blank">
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" height="50" alt="Power BI"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg"
+         width="50" height="50" alt="Power BI"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/tableau/E97627" width="50" height="50" alt="Tableau"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg"
+         width="50" height="50" alt="Tableau"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Google Sheets -->
   <a href="https://www.google.com/sheets/about/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="50" height="50" alt="Google Sheets"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/googlesheets.svg"
+         width="50" height="50" alt="Google Sheets"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <!-- Microsoft Power Apps -->
+  <!-- Power Apps -->
   <a href="https://www.microsoft.com/power-platform/products/power-apps" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftpowerapps/742774" width="50" height="50" alt="Power Apps"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerapps.svg"
+         width="50" height="50" alt="Power Apps"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <!-- Microsoft Power Automate -->
+  <!-- Power Automate -->
   <a href="https://www.microsoft.com/power-platform/products/power-automate" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftpowerautomate/0066FF" width="50" height="50" alt="Power Automate"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerautomate.svg"
+         width="50" height="50" alt="Power Automate"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Microsoft Fabric -->
   <a href="https://www.microsoft.com/microsoft-fabric" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftfabric/5C2D91" width="50" height="50" alt="Microsoft Fabric"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftfabric.svg"
+         width="50" height="50" alt="Microsoft Fabric"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Microsoft Azure -->
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="50" height="50" alt="Microsoft Azure"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftazure.svg"
+         width="50" height="50" alt="Microsoft Azure"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Amazon Web Services -->
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="50" height="50" alt="Amazon Web Services"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/amazonwebservices.svg"
+         width="50" height="50" alt="Amazon Web Services"/>
   </a>
 
 </p>
-
 - **Academic Writing Tools**: Grammarly / Hemingway, Zotero / Mendeley, EndNote, Turnitin / Plagiarism Checkers, Overleaf (LaTeX)
 - **Statistical Tools**: SPSS, Eviews, Nvivo
 - **Design**: Canva, PowerPoint, CapCut, OBS Studio, etc.
