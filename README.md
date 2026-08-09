@@ -729,6 +729,43 @@ Tools: Microsoft Forms · Power Automate · SharePoint · Microsoft 365
 I am known for my enthusiasm for continuous learning and networking. Meeting new people and exploring different perspectives is something I truly enjoy!
 
 ---
+<!-- GitHub statistics -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub%20statistics-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub statistics"/>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Adenuga-Adeyemi&show_icons=true&hide_title=true&hide=issues,prs&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&border_radius=10"
+  height="170"
+  alt="GitHub contribution statistics"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=Adenuga-Adeyemi&theme=transparent&hide_border=true&border_radius=10"
+  height="170"
+  alt="GitHub contribution streak"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenuga-Adeyemi&layout=compact&langs_count=6&hide_title=true&theme=transparent&border_radius=10"
+  height="150"
+  alt="Top programming languages"
+/>
+
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=Profile%20Views&color=2F80ED&style=for-the-badge"
+  alt="Profile views"
+/>
+
+</div>
+---
 
 <!--
 **Adenuga-Adeyemi/Adenuga-Adeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
