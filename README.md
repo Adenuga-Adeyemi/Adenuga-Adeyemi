@@ -150,18 +150,16 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Certifications-8E44AD?style=for-the-badge" />
 
+<h2 align="center">🎓 Certifications</h2>
 
 <table align="center">
-
-
+  <tr>
     <!-- DP-800 -->
     <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-800.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-800.png"
-          width="280"
-          alt="Microsoft Certified SQL AI Developer Associate - DP-800"
-        />
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-800.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-800.png"
+             width="280"
+             alt="Microsoft Certified SQL AI Developer Associate">
       </a>
       <br><br>
       <b>Microsoft Certified SQL AI Developer Associate</b>
@@ -171,12 +169,10 @@ My mission is to empower organizations and individuals to make data-driven decis
 
     <!-- DP-700 -->
     <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-700.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-700.png"
-          width="280"
-          alt="Microsoft Certified Fabric Data Engineer Associate - DP-700"
-        />
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-700.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-700.png"
+             width="280"
+             alt="Microsoft Certified Fabric Data Engineer Associate">
       </a>
       <br><br>
       <b>Microsoft Certified Fabric Data Engineer Associate</b>
@@ -186,32 +182,25 @@ My mission is to empower organizations and individuals to make data-driven decis
 
     <!-- PL-900 -->
     <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL-900.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/PL-900.png"
-          width="280"
-          alt="Microsoft Power Platform Fundamentals - PL-900"
-        />
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL-900.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/PL-900.png"
+             width="280"
+             alt="Power Platform Fundamentals">
       </a>
       <br><br>
       <b>Power Platform Fundamentals</b>
       <br>
       <sub>PL-900</sub>
     </td>
-
   </tr>
 
-  <!-- Row 2 -->
   <tr>
-
     <!-- DP-600 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-600.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-600.png"
-          width="280"
-          alt="Microsoft Certified Fabric Data Analytics Engineer Associate - DP-600"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-600.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-600.png"
+             width="280"
+             alt="Microsoft Certified Fabric Data Analytics Engineer Associate">
       </a>
       <br><br>
       <b>Fabric Data Analytics Engineer Associate</b>
@@ -219,14 +208,12 @@ My mission is to empower organizations and individuals to make data-driven decis
       <sub>DP-600</sub>
     </td>
 
-    <!-- PL-300 Microsoft -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/PL300.png"
-          width="280"
-          alt="Microsoft Certified Power BI Data Analyst Associate - PL-300"
-        />
+    <!-- PL-300 -->
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/PL300.png"
+             width="280"
+             alt="Microsoft Certified Power BI Data Analyst Associate">
       </a>
       <br><br>
       <b>Power BI Data Analyst Associate</b>
@@ -235,33 +222,26 @@ My mission is to empower organizations and individuals to make data-driven decis
     </td>
 
     <!-- AI-900 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Micosoft%20Azure%20AI%20Fundamentals.png"
-          width="280"
-          alt="Microsoft Azure AI Fundamentals - AI-900"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Micosoft%20Azure%20AI%20Fundamentals.png"
+             width="280"
+             alt="Microsoft Azure AI Fundamentals">
       </a>
       <br><br>
       <b>Azure AI Fundamentals</b>
       <br>
       <sub>AI-900</sub>
     </td>
-
   </tr>
 
-  <!-- Row 3 -->
   <tr>
-
     <!-- DP-900 -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Azure%20Data%20Fundamentals.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Azure%20Data%20Fundamentals.png"
-          width="280"
-          alt="Azure Data Fundamentals - DP-900"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Azure%20Data%20Fundamentals.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Azure%20Data%20Fundamentals.png"
+             width="280"
+             alt="Azure Data Fundamentals">
       </a>
       <br><br>
       <b>Azure Data Fundamentals</b>
@@ -270,88 +250,70 @@ My mission is to empower organizations and individuals to make data-driven decis
     </td>
 
     <!-- AI Fluency -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/AI%20Fluency.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/AI%20Fluency.png"
-          width="280"
-          alt="AI Fluency Certificate"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/AI%20Fluency.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/AI%20Fluency.png"
+             width="280"
+             alt="AI Fluency">
       </a>
       <br><br>
       <b>AI Fluency</b>
     </td>
 
     <!-- Introduction to SQL -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Introduction%20to%20SQL.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Introduction%20to%20SQL.png"
-          width="280"
-          alt="Introduction to SQL Certificate"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Introduction%20to%20SQL.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Introduction%20to%20SQL.png"
+             width="280"
+             alt="Introduction to SQL">
       </a>
       <br><br>
       <b>Introduction to SQL</b>
     </td>
-
   </tr>
 
-  <!-- Row 4 -->
   <tr>
-
     <!-- Intermediate SQL -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Intermediate%20SQL.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Intermediate%20SQL.png"
-          width="280"
-          alt="Intermediate SQL Certificate"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Intermediate%20SQL.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Intermediate%20SQL.png"
+             width="280"
+             alt="Intermediate SQL">
       </a>
       <br><br>
       <b>Intermediate SQL</b>
     </td>
 
     <!-- Cloud Computing -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Cloud%20Computing.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Cloud%20Computing.png"
-          width="280"
-          alt="Understanding Cloud Computing with Azure Certificate"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Cloud%20Computing.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Cloud%20Computing.png"
+             width="280"
+             alt="Understanding Cloud Computing with Azure">
       </a>
       <br><br>
       <b>Understanding Cloud Computing with Azure</b>
     </td>
 
     <!-- Microsoft Copilot -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Microsoft%20Copilot.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Microsoft%20Copilot.png"
-          width="280"
-          alt="Introduction to Microsoft Copilot Studio Certificate"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Microsoft%20Copilot.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Microsoft%20Copilot.png"
+             width="280"
+             alt="Introduction to Microsoft Copilot Studio">
       </a>
       <br><br>
       <b>Introduction to Microsoft Copilot Studio</b>
     </td>
-
   </tr>
 
-  <!-- Row 5 -->
   <tr>
-
     <!-- Academic Writing -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Academic%20Writing.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Academic%20Writing.png"
-          width="280"
-          alt="Academic Writing for Research Excellence - Uniathena"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Academic%20Writing.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Academic%20Writing.png"
+             width="280"
+             alt="Academic Writing for Research Excellence">
       </a>
       <br><br>
       <b>Academic Writing for Research Excellence</b>
@@ -360,13 +322,11 @@ My mission is to empower organizations and individuals to make data-driven decis
     </td>
 
     <!-- Python -->
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Python.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Python.png"
-          width="280"
-          alt="Introduction to Python - DataCamp"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Python.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Python.png"
+             width="280"
+             alt="Introduction to Python">
       </a>
       <br><br>
       <b>Introduction to Python</b>
@@ -375,38 +335,29 @@ My mission is to empower organizations and individuals to make data-driven decis
     </td>
 
     <!-- Empty -->
-    <td align="center" width="33%">
-    </td>
-
+    <td></td>
   </tr>
 
-  <!-- Final Row: Institute of Global Peace -->
   <tr>
+    <!-- Human Rights - centered in middle -->
+    <td></td>
 
-    <td align="center" width="33%">
-    </td>
-
-    <td align="center" width="33%">
-      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Human%20Rights%20%26%20Justice.png" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Human%20Rights%20%26%20Justice.png"
-          width="280"
-          alt="Diploma in Human Rights and Justice"
-        />
+    <td align="center">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Human%20Rights%20%26%20Justice.png">
+        <img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Human%20Rights%20%26%20Justice.png"
+             width="280"
+             alt="Diploma in Human Rights and Justice">
       </a>
       <br><br>
-      <b>Diploma in Human Rights & Justice</b>
+      <b>Diploma in Human Rights &amp; Justice</b>
       <br>
       <sub>Institute of Global Peace and Conflict Management</sub>
     </td>
 
-    <td align="center" width="33%">
-    </td>
-
+    <td></td>
   </tr>
 
 </table>
-
 
 - Microsoft Certified: Fabric Data Analytics Engineer Associate (DP-600) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-600.png)
 - Microsoft Certified: Power BI Data Analyst Associate (PL-300) - [View Certificate](https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png)
