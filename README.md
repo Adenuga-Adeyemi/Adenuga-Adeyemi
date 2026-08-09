@@ -151,164 +151,261 @@ My mission is to empower organizations and individuals to make data-driven decis
 <img src="https://img.shields.io/badge/Certifications-8E44AD?style=for-the-badge" />
 
 <table align="center">
-<tr>
+  
+  <!-- Row 1 -->
+  <tr>
 
-<td align="center" width="33%">
+    <!-- DP-800 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-800.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-800.png"
+          width="280"
+          alt="Microsoft Certified SQL AI Developer Associate - DP-800"
+        />
+      </a>
+      <br><br>
+      <b>Microsoft Certified SQL AI Developer Associate</b>
+      <br>
+      <sub>DP-800</sub>
+    </td>
 
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-600.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-600.png" width="280">
-</a>
+    <!-- DP-700 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-700.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-700.png"
+          width="280"
+          alt="Microsoft Certified Fabric Data Engineer Associate - DP-700"
+        />
+      </a>
+      <br><br>
+      <b>Microsoft Certified Fabric Data Engineer Associate</b>
+      <br>
+      <sub>DP-700</sub>
+    </td>
 
-<br><br>
-<b>Fabric Data Analytics Engineer Associate</b>
-<br>
-<sub>DP-600</sub>
+    <!-- PL-900 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL-900.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/PL-900.png"
+          width="280"
+          alt="Microsoft Power Platform Fundamentals - PL-900"
+        />
+      </a>
+      <br><br>
+      <b>Power Platform Fundamentals</b>
+      <br>
+      <sub>PL-900</sub>
+    </td>
 
-</td>
+  </tr>
 
-<td align="center" width="33%">
+  <!-- Row 2 -->
+  <tr>
 
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/PL300.png" width="280">
-</a>
+    <!-- DP-600 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/DP-600.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/DP-600.png"
+          width="280"
+          alt="Microsoft Certified Fabric Data Analytics Engineer Associate - DP-600"
+        />
+      </a>
+      <br><br>
+      <b>Fabric Data Analytics Engineer Associate</b>
+      <br>
+      <sub>DP-600</sub>
+    </td>
 
-<br><br>
-<b>Power BI Data Analyst Associate</b>
-<br>
-<sub>PL-300</sub>
+    <!-- PL-300 Microsoft -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/PL300.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/PL300.png"
+          width="280"
+          alt="Microsoft Certified Power BI Data Analyst Associate - PL-300"
+        />
+      </a>
+      <br><br>
+      <b>Power BI Data Analyst Associate</b>
+      <br>
+      <sub>PL-300 · Microsoft</sub>
+    </td>
 
-</td>
+    <!-- AI-900 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Micosoft%20Azure%20AI%20Fundamentals.png"
+          width="280"
+          alt="Microsoft Azure AI Fundamentals - AI-900"
+        />
+      </a>
+      <br><br>
+      <b>Azure AI Fundamentals</b>
+      <br>
+      <sub>AI-900</sub>
+    </td>
 
-<td align="center" width="33%">
+  </tr>
 
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Micosoft%20Azure%20AI%20Fundamentals.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Micosoft%20Azure%20AI%20Fundamentals.png" width="280">
-</a>
+  <!-- Row 3 -->
+  <tr>
 
-<br><br>
-<b>Azure AI Fundamentals</b>
-<br>
-<sub>AI-900</sub>
+    <!-- DP-900 -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Azure%20Data%20Fundamentals.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Azure%20Data%20Fundamentals.png"
+          width="280"
+          alt="Azure Data Fundamentals - DP-900"
+        />
+      </a>
+      <br><br>
+      <b>Azure Data Fundamentals</b>
+      <br>
+      <sub>DP-900 · Digital Skills Nigeria</sub>
+    </td>
 
-</td>
+    <!-- AI Fluency -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/AI%20Fluency.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/AI%20Fluency.png"
+          width="280"
+          alt="AI Fluency Certificate"
+        />
+      </a>
+      <br><br>
+      <b>AI Fluency</b>
+    </td>
 
-</tr>
+    <!-- Introduction to SQL -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Introduction%20to%20SQL.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Introduction%20to%20SQL.png"
+          width="280"
+          alt="Introduction to SQL Certificate"
+        />
+      </a>
+      <br><br>
+      <b>Introduction to SQL</b>
+    </td>
 
-<tr>
+  </tr>
 
-<td align="center">
+  <!-- Row 4 -->
+  <tr>
 
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Azure%20Data%20Fundamentals.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Azure%20Data%20Fundamentals.png" width="280">
-</a>
+    <!-- Intermediate SQL -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Intermediate%20SQL.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Intermediate%20SQL.png"
+          width="280"
+          alt="Intermediate SQL Certificate"
+        />
+      </a>
+      <br><br>
+      <b>Intermediate SQL</b>
+    </td>
 
-<br><br>
-<b>Azure Data Fundamentals</b>
-<br>
-<sub>DP-900</sub>
+    <!-- Cloud Computing -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Cloud%20Computing.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Cloud%20Computing.png"
+          width="280"
+          alt="Understanding Cloud Computing with Azure Certificate"
+        />
+      </a>
+      <br><br>
+      <b>Understanding Cloud Computing with Azure</b>
+    </td>
 
-</td>
+    <!-- Microsoft Copilot -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Microsoft%20Copilot.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Microsoft%20Copilot.png"
+          width="280"
+          alt="Introduction to Microsoft Copilot Studio Certificate"
+        />
+      </a>
+      <br><br>
+      <b>Introduction to Microsoft Copilot Studio</b>
+    </td>
 
-<td align="center">
+  </tr>
 
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/AI%20Fluency.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/AI%20Fluency.png" width="280">
-</a>
+  <!-- Row 5 -->
+  <tr>
 
-<br><br>
-<b>AI Fluency</b>
+    <!-- Academic Writing -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Academic%20Writing.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Academic%20Writing.png"
+          width="280"
+          alt="Academic Writing for Research Excellence - Uniathena"
+        />
+      </a>
+      <br><br>
+      <b>Academic Writing for Research Excellence</b>
+      <br>
+      <sub>Uniathena</sub>
+    </td>
 
-</td>
+    <!-- Python -->
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Python.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Python.png"
+          width="280"
+          alt="Introduction to Python - DataCamp"
+        />
+      </a>
+      <br><br>
+      <b>Introduction to Python</b>
+      <br>
+      <sub>DataCamp</sub>
+    </td>
 
-<td align="center">
+    <!-- Empty -->
+    <td align="center" width="33%">
+    </td>
 
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Introduction%20to%20SQL.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Introduction%20to%20SQL.png" width="280">
-</a>
+  </tr>
 
-<br><br>
-<b>Introduction to SQL</b>
+  <!-- Final Row: Institute of Global Peace -->
+  <tr>
 
-</td>
+    <td align="center" width="33%">
+    </td>
 
-</tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Human%20Rights%20%26%20Justice.png" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Human%20Rights%20%26%20Justice.png"
+          width="280"
+          alt="Diploma in Human Rights and Justice"
+        />
+      </a>
+      <br><br>
+      <b>Diploma in Human Rights & Justice</b>
+      <br>
+      <sub>Institute of Global Peace and Conflict Management</sub>
+    </td>
 
-<tr>
+    <td align="center" width="33%">
+    </td>
 
-<td align="center">
+  </tr>
 
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Intermediate%20SQL.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Intermediate%20SQL.png" width="280">
-</a>
-
-<br><br>
-<b>Intermediate SQL</b>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Cloud%20Computing.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Cloud%20Computing.png" width="280">
-</a>
-
-<br><br>
-<b>Cloud Computing with Azure</b>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Microsoft%20Copilot.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Microsoft%20Copilot.png" width="280">
-</a>
-
-<br><br>
-<b>Microsoft Copilot Studio</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Academic%20Writing.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Academic%20Writing.png" width="280">
-</a>
-
-<br><br>
-<b>Academic Writing for Research Excellence</b>
-<br>
-<sub>Uniathena</sub>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/Adenuga-Adeyemi/Certifications/blob/main/Python.png">
-<img src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Certifications/main/Python.png" width="280">
-</a>
-
-<br><br>
-<b>Introduction to Python</b>
-<br>
-<sub>DataCamp</sub>
-
-</td>
-
-<td align="center">
-
-<!-- Add your Digital Skills Nigeria PL-300 certificate here -->
-
-<b>Microsoft Certified Data Analyst</b>
-<br>
-<sub>PL-300 · Digital Skills Nigeria</sub>
-
-</td>
-
-</tr>
 </table>
 
 
