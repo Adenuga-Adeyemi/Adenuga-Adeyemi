@@ -55,6 +55,46 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Tools%20%26%20Technologies-F2C811?style=for-the-badge" />
 
+<p align="center">
+
+<a href="https://www.microsoft.com/microsoft-365/excel">
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Excel"/>
+</a>
+
+<a href="https://www.microsoft.com/power-platform/products/power-bi">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI"/>
+</a>
+
+<a href="https://www.tableau.com/">
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="45" height="45" alt="Tableau"/>
+</a>
+
+<a href="https://www.google.com/sheets/about/">
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="45" height="45" alt="Google Sheets"/>
+</a>
+
+<a href="https://www.microsoft.com/power-platform/products/power-apps">
+<img src="https://cdn.simpleicons.org/powerapps/742774" width="45" height="45" alt="Power Apps"/>
+</a>
+
+<a href="https://www.microsoft.com/power-platform/products/power-automate">
+<img src="https://cdn.simpleicons.org/powerautomate/0066FF" width="45" height="45" alt="Power Automate"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-fabric">
+<img src="https://cdn.simpleicons.org/microsoftfabric/5C2D91" width="45" height="45" alt="Microsoft Fabric"/>
+</a>
+
+<a href="https://azure.microsoft.com/">
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="45" height="45" alt="Azure"/>
+</a>
+
+<a href="https://aws.amazon.com/">
+<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="45" height="45" alt="AWS"/>
+</a>
+
+</p>
+
 - **Academic Writing Tools**: Grammarly / Hemingway, Zotero / Mendeley, EndNote, Turnitin / Plagiarism Checkers, Overleaf (LaTeX)
 - **Statistical Tools**: SPSS, Eviews, Nvivo
 - **Design**: Canva, PowerPoint, CapCut, OBS Studio, etc.
