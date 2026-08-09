@@ -150,8 +150,6 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Certifications-8E44AD?style=for-the-badge" />
 
-<h2 align="center">🎓 Certifications</h2>
-
 <table align="center">
 <tr>
 
@@ -162,7 +160,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 <br><br>
 <b>SQL AI Developer Associate</b>
 <br>
-<sub>DP-800</sub>
+<sub>DP-800 . Microsoft</sub>
 </td>
 
 <td align="center">
@@ -172,7 +170,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 <br><br>
 <b>Fabric Data Engineer Associate</b>
 <br>
-<sub>DP-700</sub>
+<sub>DP-700 . Microsoft</sub>
 </td>
 
 <td align="center">
@@ -182,7 +180,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 <br><br>
 <b>Power Platform Fundamentals</b>
 <br>
-<sub>PL-900</sub>
+<sub>PL-900 . Microsoft</sub>
 </td>
 
 </tr>
@@ -196,7 +194,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 <br><br>
 <b>Fabric Data Analytics Engineer Associate</b>
 <br>
-<sub>DP-600</sub>
+<sub>DP-600. Microsoft</sub>
 </td>
 
 <td align="center">
@@ -216,7 +214,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 <br><br>
 <b>Azure AI Fundamentals</b>
 <br>
-<sub>AI-900</sub>
+<sub>AI-900 . Microsoft</sub>
 </td>
 
 </tr>
