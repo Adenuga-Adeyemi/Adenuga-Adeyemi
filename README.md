@@ -237,6 +237,8 @@ My mission is to empower organizations and individuals to make data-driven decis
 </a>
 <br><br>
 <b>AI Fluency</b>
+<br>
+<sub>Digital Skills Nigeria</sub>
 </td>
 
 <td align="center">
@@ -245,6 +247,8 @@ My mission is to empower organizations and individuals to make data-driven decis
 </a>
 <br><br>
 <b>Introduction to SQL</b>
+<br>
+<sub>Datacamp</sub>
 </td>
 
 </tr>
@@ -257,6 +261,8 @@ My mission is to empower organizations and individuals to make data-driven decis
 </a>
 <br><br>
 <b>Intermediate SQL</b>
+<br>
+<sub>Datacamp</sub>
 </td>
 
 <td align="center">
@@ -265,6 +271,8 @@ My mission is to empower organizations and individuals to make data-driven decis
 </a>
 <br><br>
 <b>Understanding Cloud Computing with Azure</b>
+<br>
+<sub>Datacamp</sub>
 </td>
 
 <td align="center">
@@ -273,6 +281,8 @@ My mission is to empower organizations and individuals to make data-driven decis
 </a>
 <br><br>
 <b>Introduction to Microsoft Copilot Studio</b>
+<br>
+<sub>Datacamp</sub>
 </td>
 
 </tr>
