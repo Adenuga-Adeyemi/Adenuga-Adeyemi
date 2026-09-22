@@ -5,6 +5,9 @@
 </div>
 
 ###
+![](coverimage.jfif)
+
+###
 <div align="center">
 
 <a href="https://github.com/Adenuga-Adeyemi"> <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=My+name+is+Adeyemi+Adenuga;Data+Analyst;Business+Intelligence+%7C+Power+BI;Data+%26+AI+Educator;Academic+Writer+%26+Researcher" alt="Typing SVG" /> </a>
@@ -13,6 +16,10 @@
 <img src="https://img.shields.io/badge/Power%20BI-BI%20Developer-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
 <img src="https://img.shields.io/badge/Data%20%26%20AI-Educator-8E44AD?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Research-Academic%20Writer-E67E22?style=for-the-badge&logo=readthedocs&logoColor=white" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=Profile%20views&color=0e75b6&style=flat" alt="Adenuga-Adeyemi" />
+</p>
 
 </div>
 
