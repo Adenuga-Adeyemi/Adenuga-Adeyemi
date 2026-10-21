@@ -368,31 +368,119 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <p align="center">
   <strong>
-    BUSINESS INTELLIGENCE · DATA STORYTELLING · ACTIONABLE INSIGHTS
+    BUSINESS INTELLIGENCE · MARKET INSIGHTS · EXCEL ANALYTICS
   </strong>
 </p>
 
-<div align="center">
+<!-- PROJECT 1: CARVEX LOGISTICS -->
+<h3 align="center">01. Carvex Logistics & Supply Chain Performance</h3>
 
+<p align="center">
+  <em>Power BI | Logistics | Supply Chain | Executive Reporting</em>
+</p>
+
+<p align="center">
   <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
     <img
       src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/main/Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-03.png"
-      width="90%"
-      alt="Carvex Logistics Executive Overview Dashboard"
+      width="95%"
+      alt="Carvex Logistics and Supply Chain Executive Overview"
     />
   </a>
+</p>
 
-  <br/><br/>
-  <br/>
-
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiMzBiZTY2M2UtMTM1OS00ZmNlLTk2NmUtMzU4Yzg3ODFiMWZmIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
     <img
-      src="https://img.shields.io/badge/EXPLORE%20INTERACTIVE%20DASHBOARD-C9A227?style=for-the-badge&logo=powerbi&logoColor=45474B"
-      alt="Explore Interactive Power BI Dashboard"
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/main/Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-04.png"
+      width="45%"
+      alt="Carvex Product Performance Dashboard"
     />
   </a>
+  &nbsp;
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
+    <img
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/main/Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-05.png"
+      width="45%"
+      alt="Carvex Supplier Performance Dashboard"
+    />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMzBiZTY2M2UtMTM1OS00ZmNlLTk2NmUtMzU4Yzg3ODFiMWZmIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
+    <img src="https://img.shields.io/badge/VIEW%20INTERACTIVE%20DASHBOARD-C9A227?style=for-the-badge&logo=powerbi&logoColor=45474B" alt="View interactive Power BI dashboard"/>
+  </a>
+</p>
+
+<hr/>
+
+<!-- PROJECT 2: RETAIL MARKET ANALYTICS -->
+<h3 align="center">02. Retail Market Analytics</h3>
+
+<p align="center">
+  <strong>Microsoft Excel</strong> · Retail Performance · Market Trends · Sales Insights
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
+    <img src="https://img.shields.io/badge/RETAIL%20MARKET%20ANALYTICS-087F5B?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Retail Market Analytics project"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
+    <strong>Explore Retail Market Analytics →</strong>
+  </a>
+</p>
+
+<hr/>
+
+<!-- PROJECT 3: RELIGION AFFILIATION -->
+<h3 align="center">03. Religion Affiliation Analysis</h3>
+
+<p align="center">
+  <strong>Data Analytics</strong> · Categorical Analysis · Patterns & Comparisons
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
+    <img src="https://img.shields.io/badge/RELIGION%20AFFILIATION%20PROJECT-722F37?style=for-the-badge&logo=github&logoColor=white" alt="Religion Affiliation Analysis project"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
+    <strong>Explore Religion Affiliation Project →</strong>
+  </a>
+</p>
+
+<hr/>
+
+<!-- PROJECT 4: FOODMEAL IN EXCEL -->
+<h3 align="center">04. Foodmeal Sales & Performance Analysis</h3>
+
+<p align="center">
+  <strong>Microsoft Excel</strong> · Food & Meal Data · Sales Reporting · Performance Insights
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
+    <img src="https://img.shields.io/badge/FOODMEAL%20EXCEL%20PROJECT-C9A227?style=for-the-badge&logo=microsoftexcel&logoColor=45474B" alt="Foodmeal Excel project"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
+    <strong>Explore Foodmeal Project →</strong>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-45474B?style=for-the-badge&logo=github&logoColor=white" alt="View all portfolio projects"/>
+  </a>
+</p>
 
 <!-- Excel Projects -->
 
