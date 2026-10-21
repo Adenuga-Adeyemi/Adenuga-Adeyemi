@@ -406,6 +406,14 @@ I’ve also created a detailed presentation and Excel dashboard that captures th
 
 <img src="https://img.shields.io/badge/Power%20BI-projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
+-**Carvex Logistics** [View Project](https://medium.com/@adeyemi.da/carvex-logistics-supply-chain-performance-dashboard-2610ac31b8fd?postPublishedType=repub) 
+This is a supply chain performance report that turns operational data into clear executive insights on revenue, quality, product risk, and supplier reliability.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzBiZTY2M2UtMTM1OS00ZmNlLTk2NmUtMzU4Yzg3ODFiMWZmIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
+
+-**Retail Performance Market Intelligence Analytics** [View Project](https://medium.com/@adeyemi.da/retail-performance-market-intelligence-report-9df73aa21a3b) 
+This report documents a complete retail sales analytics project executed for Data Science Nigeria (DSN). The goal was to turn a raw transactional dataset into a reliable, decision-ready Power BI dashboard that management can trust.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiODAzZmZiOGQtMzVmNS00ZTA0LWE2OWItMjRlYWNlN2IxMDQ5IiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9&source=post_page-----9df73aa21a3b"> <img src="https://img.shields.io/badge/Interact%20with%20dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
+
 -**Mpox Trends in Africa** [View Project](https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9) 
 This is an health intelligence report that provides a thorough examination of Mpox trends in Africa from January 2024 to August 2025 to highlight the evolving situation, key data insights, and public health implications.
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
