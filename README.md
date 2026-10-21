@@ -11,21 +11,27 @@
 <div align="center">
 
 
-<div align="center">
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,40:0077B6,75:48CAE4,100:D4AF37&height=220&section=header&text=ADEYEMI%20ADENUGA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Research%20Analytics&descAlignY=58&descSize=15&descColor=FFFFFF&fontFamily=Montserrat" width="100%" alt="Adeyemi Adenuga GitHub Profile Header"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=48CAE4&center=true&vCenter=true&width=850&lines=Turning+Data+into+Actionable+Business+Insights;Power+BI+Developer+%7C+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Microsoft+Fabric+%7C+Azure+%7C+AWS;Research+Analytics+%7C+Data+Storytelling;Building+Solutions+that+Support+Better+Decisions" alt="Typing Animation"/>
+<!-- Premium Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45474B,30:722F37,60:087F5B,85:C9A227,100:45474B&height=230&section=header&text=ADEYEMI%20ADENUGA&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20RESEARCH%20ANALYTICS&descAlignY=58&descSize=14&descColor=FFFFFF&fontFamily=Montserrat" width="100%" alt="Adeyemi Adenuga - Data Analytics and Business Intelligence"/>
 
 <br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=PROFILE%20VIEWS&color=0077B6&style=flat-square" alt="Profile Views"/>
+<!-- Bold Professional Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=19&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Turning+Data+into+Actionable+Business+Insights;Power+BI+Developer+%7C+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Microsoft+Fabric+%7C+Azure+%7C+AWS;Research+Analytics+%7C+Data+Storytelling;Building+Data+Solutions+for+Better+Decisions" alt="Professional Data Analytics Typing Animation"/>
 
 <br/><br/>
 
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=PROFILE%20VIEWS&color=087F5B&style=for-the-badge" alt="GitHub Profile Views"/>
+
+<br/><br/>
+
+<!-- Portfolio Link -->
+<a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-C9A227?style=for-the-badge&logo=github&logoColor=45474B" alt="Explore My BI Portfolio"/>
+</a>
+
+</div>
 
 <a href="https://github.com/Adenuga-Adeyemi"> <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=My+name+is+Adeyemi+Adenuga;Data+Analyst;Business+Intelligence+%7C+Power+BI;Data+%26+AI+Educator;Academic+Writer+%26+Researcher" alt="Typing SVG" /> </a>
 
