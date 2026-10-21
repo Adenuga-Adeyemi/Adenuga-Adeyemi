@@ -370,17 +370,37 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Excel-projects-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
--**Customer Sales Report**[View Project](https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/tree/main)
-This is a project based learning resources from Addidas Company. The project focused more of Customer based behaviour and organization performance over time. The project was carried out using Excel.
-<a href="https://github.com/Adenuga-Adeyemi/Customers-Sales-Report/tree/main"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
-
--**Sales Analysis Report**[View Project](https://medium.com/@adeyemi.da/sales-analysis-report-fc558b5b3645)(Excel)
-Have you ever wondered what drives revenue growth in a competitive market? In today’s data-driven business environment, understanding sales trends and customer behaviors is crucial for making informed decisions. I recently conducted an in-depth sales analysis to uncover key trends, customer demographics, and product performance.
-<a href="https://medium.com/@adeyemi.da/sales-analysis-report-fc558b5b3645"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
+-**FoodMeal Sales and Order Performance Report**[View Project](https://medium.com/@adeyemi.da/foodmeal-sales-and-order-performance-report-1e193cf51789)
+The FoodMeal dashboard project is a business intelligence solution designed to monitor food-ordering performance across products, categories, customers, cities, revenue, discounts, and delivery operations.
+<a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/foodmeal-sales-and-order-performance-report"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**HealthyLife Healthcare Dashboard** [View Project](https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md) (Excel):
 Designed a comprehensive dashboard for a local clinic, integrating patient demographics and medical records. Utilized SQL for data extraction and Power BI for visualization, enabling real-time insights into patient flow and resource allocation.
 <a href="https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
+
+-**Religious Affiliation and Population Distribution in Ghana: An Interactive Excel Data Analytics Project**[View Project](https://medium.com/@adeyemi.da/religious-affiliation-and-population-distribution-in-ghana-an-interactive-excel-data-analytics-3e18a5de1edf)
+The dashboard provides users with the ability to select a region and immediately examine its population size, dominant religious affiliation, religious population distribution, and position among the most populous regions.
+<a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/ghana-religious-affiliation-and-population-distribution"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
+
+-**Elevare Hub Sales Performance Analysis Report**[View Project](https://medium.com/@adeyemi.da/elevare-hub-sales-performance-analysis-report-746f8fafaeac)
+This project analyzes sales data to understand revenue performance across different regions, products, categories, salespeople, and days of the week.
+<a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/elevare-hub-sales-performance-analysis"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
+
+-**Financial Health & Cash Flow Performance Dashboard**[View Project](https://medium.com/@adeyemi.da/financial-health-cash-flow-performance-dashboard-6a96dc9d255d)
+The Aurelia Financial Performance Dashboard provides an overview of the company’s financial position, income, expenses, savings, business account balance, tax reserve, cash flow and spending patterns.
+<a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/elevare-hub-sales-performance-analysis"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
+
+-**Financial Health & Cash Flow Performance Dashboard**[View Project](https://medium.com/@adeyemi.da/financial-health-cash-flow-performance-dashboard-6a96dc9d255d)
+The Aurelia Financial Performance Dashboard provides an overview of the company’s financial position, income, expenses, savings, business account balance, tax reserve, cash flow and spending patterns.
+<a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/elevare-hub-sales-performance-analysis"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
+
+-**Nigeria Ailment Cases Analysis Dashboard**[View Project](https://medium.com/@adeyemi.da/nigeria-ailment-cases-analysis-dashboard-1b8c99235c02)
+This project develops an interactive Nigeria Disease Prevalence Dashboard using Excel. The dashboard consolidates and analyses reported ailment cases across selected Nigerian states and presents the results through key performance indicators (KPIs), charts, geographical visualisations and interactive filters.
+<a href="https://medium.com/@adeyemi.da/nigeria-ailment-cases-analysis-dashboard-1b8c99235c02"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
+
+-**Sales Analysis Report**[View Project](https://medium.com/@adeyemi.da/sales-analysis-report-fc558b5b3645)(Excel)
+Have you ever wondered what drives revenue growth in a competitive market? In today’s data-driven business environment, understanding sales trends and customer behaviors is crucial for making informed decisions. I recently conducted an in-depth sales analysis to uncover key trends, customer demographics, and product performance.
+<a href="https://medium.com/@adeyemi.da/sales-analysis-report-fc558b5b3645"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
 -**Nigeria Economic Pulse Dashboad** [View Project](https://www.datascienceportfol.io/pearladeyemi/projects/4)
 A synopsis driven by an A.I. Simulated Dataset, where I explored Nigeria’s economic activities and demographic dynamics over five years (2020–2024). This was inspired by my quest to know the major trending sector in Nigeria at the moment.
