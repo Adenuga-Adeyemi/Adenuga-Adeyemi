@@ -383,35 +383,6 @@ My mission is to empower organizations and individuals to make data-driven decis
   </a>
 
   <br/><br/>
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
-          <img
-            src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/main/Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-04.png"
-            width="100%"
-            alt="Carvex Product Performance Dashboard"
-          />
-          <br/>
-          <strong>🟡 Product Performance</strong>
-        </a>
-      </td>
-
-      <td align="center" width="50%">
-        <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
-          <img
-            src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/main/Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-05.png"
-            width="100%"
-            alt="Carvex Supplier Performance Dashboard"
-          />
-          <br/>
-          <strong>🟢 Supplier Performance</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
-
   <br/>
 
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMzBiZTY2M2UtMTM1OS00ZmNlLTk2NmUtMzU4Yzg3ODFiMWZmIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
