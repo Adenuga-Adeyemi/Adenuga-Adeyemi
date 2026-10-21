@@ -9,39 +9,26 @@
 
 ###
 <div align="center">
-
-
 <!-- Premium Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45474B,30:722F37,60:087F5B,85:C9A227,100:45474B&height=230&section=header&text=ADEYEMI%20ADENUGA&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20RESEARCH%20ANALYTICS&descAlignY=58&descSize=14&descColor=FFFFFF&fontFamily=Montserrat" width="100%" alt="Adeyemi Adenuga - Data Analytics and Business Intelligence"/>
 
 <br/>
-
 <!-- Bold Professional Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=19&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Turning+Data+into+Actionable+Business+Insights;Power+BI+Developer+%7C+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Microsoft+Fabric+%7C+Azure+%7C+AWS;Research+Analytics+%7C+Data+Storytelling;Building+Data+Solutions+for+Better+Decisions" alt="Professional Data Analytics Typing Animation"/>
-
 <br/><br/>
-
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=PROFILE%20VIEWS&color=087F5B&style=for-the-badge" alt="GitHub Profile Views"/>
-
 <br/><br/>
-
 <!-- Portfolio Link -->
 <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-C9A227?style=for-the-badge&logo=github&logoColor=45474B" alt="Explore My BI Portfolio"/>
 </a>
-
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Data%20Analytics-Data%20Analyst-00A86B?style=for-the-badge&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-BI%20Developer-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
 <img src="https://img.shields.io/badge/Data%20%26%20AI-Educator-8E44AD?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Research-Academic%20Writer-E67E22?style=for-the-badge&logo=readthedocs&logoColor=white" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=Profile%20views&color=0e75b6&style=flat" alt="Adenuga-Adeyemi" />
-</p>
-
 </div>
 
 ###
