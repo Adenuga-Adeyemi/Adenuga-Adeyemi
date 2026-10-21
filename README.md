@@ -1013,9 +1013,6 @@ I am known for my enthusiasm for continuous learning and networking. Meeting new
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenuga-Adeyemi&layout=compact&bg_color=45474B&title_color=C9A227&text_color=FFFFFF&border_color=722F37&langs_count=8" alt="Top Languages" width="41%"/>
 <br/><br/>
-<!-- GitHub Profile Summary -->
-<img src="https://github-readme-stats.vercel.app/api?username=Adenuga-Adeyemi&show_icons=true&bg_color=45474B&title_color=C9A227&text_color=FFFFFF&icon_color=087F5B&border_color=722F37&rank_icon=github" alt="GitHub Profile Stats" width="65%"/>
-
 </div>
 <!-- Professional Footer -->
 <div align="center">
