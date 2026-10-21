@@ -549,7 +549,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 <p align="center">
   <a href="https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md">
     <img
-      src="REPLACE_WITH_THE_RAW_GITHUB_URL_OF_THE_HEALTHY_LIFE_DASHBOARD_IMAGE"
+      src="https://github.com/user-attachments/assets/a8c50093-d7c6-4300-9125-8f87c6f18ef3"
       width="95%"
       alt="Healthy Life Diagnostics Healthcare Analysis Dashboard"
     />
@@ -595,26 +595,26 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <hr/>
 
-<!-- PROJECT 7: BMW ANALYTICS -->
-<h3 align="center">07. BMW Car Model Sales Analysis (2019–2023)</h3>
+<!-- PROJECT 7: BMW CAR MODEL SALES -->
+<h3 align="center">07. BMW Car Model Sales Analysis Report (2019–2023)</h3>
 
 <p align="center">
-  <em>Automotive Analytics | Sales Trends | Model Performance | Business Intelligence</em>
+  <em>Automotive Analytics | Model Sales | Year-on-Year Trends | Market Insights</em>
 </p>
 
 <p align="center">
   <a href="https://medium.com/@adeyemi.da/bmw-car-model-sales-analysis-report-2019-2023-f812690be7b9">
     <img
-      src="REPLACE_WITH_THE_RAW_GITHUB_URL_OF_THE_BMW_DASHBOARD_IMAGE"
+      src="REPLACE_WITH_THE_RAW_GITHUB_URL_OF_THE_BMW_REPORT_IMAGE"
       width="95%"
-      alt="BMW Car Model Sales Analysis Dashboard, 2019–2023"
+      alt="BMW Car Model Sales Analysis Report 2019–2023"
     />
   </a>
 </p>
 
 <p align="center">
   <a href="https://medium.com/@adeyemi.da/bmw-car-model-sales-analysis-report-2019-2023-f812690be7b9">
-    <img src="https://img.shields.io/badge/READ%20BMW%20ANALYSIS-C9A227?style=for-the-badge&logo=medium&logoColor=45474B" alt="Read BMW Car Model Sales Analysis"/>
+    <img src="https://img.shields.io/badge/READ%20BMW%20ANALYSIS-C9A227?style=for-the-badge&logo=medium&logoColor=white" alt="Read BMW Car Sales Analysis"/>
   </a>
 </p>
 
