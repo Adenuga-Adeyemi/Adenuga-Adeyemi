@@ -778,6 +778,49 @@ Tools: Microsoft Forms · Power Automate · SharePoint · Microsoft 365
 I am known for my enthusiasm for continuous learning and networking. Meeting new people and exploring different perspectives is something I truly enjoy!
 
 ---
+## GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=Adenuga-Adeyemi&background=45474B&border=722F37&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=087F5B&dates=CCCCCC&hide_border=false" alt="GitHub Streak Stats" width="49%"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenuga-Adeyemi&layout=compact&bg_color=45474B&title_color=C9A227&text_color=FFFFFF&border_color=722F37&langs_count=8" alt="Top Languages" width="41%"/>
+
+<br/><br/>
+
+<!-- GitHub Profile Summary -->
+<img src="https://github-readme-stats.vercel.app/api?username=Adenuga-Adeyemi&show_icons=true&bg_color=45474B&title_color=C9A227&text_color=FFFFFF&icon_color=087F5B&border_color=722F37&rank_icon=github" alt="GitHub Profile Stats" width="65%"/>
+
+</div>
+
+---
+<!-- Professional Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:45474B,35:722F37,70:087F5B,100:C9A227&height=3&section=header" width="100%" alt="Decorative Divider"/>
+
+<br/>
+
+<strong>BUILDING INSIGHTS. CREATING IMPACT. DRIVING DECISIONS.</strong>
+
+<br/><br/>
+
+<em>Data Analytics • Business Intelligence • Research Analytics</em>
+<br/><br/>
+<a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-C9A227?style=for-the-badge&logo=github&logoColor=45474B" alt="Explore My Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,30:087F5B,65:722F37,100:45474B&height=130&section=footer" width="100%" alt="Gold Green Wine and Grey GitHub Footer"/>
+
+<sub>Crafted with ❤️ by Adeyemi Adenuga | Always learning, building, and sharing.</sub>
+
+</div>
+---
 
 <!--
 **Adenuga-Adeyemi/Adenuga-Adeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
