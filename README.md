@@ -1,14 +1,4 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+You're+Welcome+to+My+Portfolio!" alt="Hi 👋 You're Welcome to My Portfolio!" />
-
-</div>
-
-###
-![](coverimage.jfif)
-
-###
-<div align="center">
 <!-- Premium Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45474B,30:722F37,60:087F5B,85:C9A227,100:45474B&height=230&section=header&text=ADEYEMI%20ADENUGA&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20RESEARCH%20ANALYTICS&descAlignY=58&descSize=14&descColor=FFFFFF&fontFamily=Montserrat" width="100%" alt="Adeyemi Adenuga - Data Analytics and Business Intelligence"/>
 
