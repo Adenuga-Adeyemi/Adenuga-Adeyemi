@@ -390,10 +390,6 @@ This project analyzes sales data to understand revenue performance across differ
 The Aurelia Financial Performance Dashboard provides an overview of the company’s financial position, income, expenses, savings, business account balance, tax reserve, cash flow and spending patterns.
 <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/elevare-hub-sales-performance-analysis"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
 
--**Financial Health & Cash Flow Performance Dashboard**[View Project](https://medium.com/@adeyemi.da/financial-health-cash-flow-performance-dashboard-6a96dc9d255d)
-The Aurelia Financial Performance Dashboard provides an overview of the company’s financial position, income, expenses, savings, business account balance, tax reserve, cash flow and spending patterns.
-<a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/elevare-hub-sales-performance-analysis"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
-
 -**Nigeria Ailment Cases Analysis Dashboard**[View Project](https://medium.com/@adeyemi.da/nigeria-ailment-cases-analysis-dashboard-1b8c99235c02)
 This project develops an interactive Nigeria Disease Prevalence Dashboard using Excel. The dashboard consolidates and analyses reported ailment cases across selected Nigerian states and presents the results through key performance indicators (KPIs), charts, geographical visualisations and interactive filters.
 <a href="https://medium.com/@adeyemi.da/nigeria-ailment-cases-analysis-dashboard-1b8c99235c02"> <img src="https://img.shields.io/badge/View%20project-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </a>
