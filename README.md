@@ -537,6 +537,82 @@ My mission is to empower organizations and individuals to make data-driven decis
 </p>
 
 <hr/>
+<hr/>
+
+<!-- PROJECT 5: HEALTHY LIFE DIAGNOSTICS -->
+<h3 align="center">05. Healthy Life Diagnostics & Healthcare Analysis</h3>
+
+<p align="center">
+  <em>Healthcare Analytics | Diagnostic Insights | Performance Monitoring | Data Visualization</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md">
+    <img
+      src="REPLACE_WITH_THE_RAW_GITHUB_URL_OF_THE_HEALTHY_LIFE_DASHBOARD_IMAGE"
+      width="95%"
+      alt="Healthy Life Diagnostics Healthcare Analysis Dashboard"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Healthy-Life-Diagnostics-Healthcare-Analysis/blob/main/README.md">
+    <img src="https://img.shields.io/badge/EXPLORE%20HEALTHCARE%20PROJECT-087F5B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Healthy Life Healthcare Analysis"/>
+  </a>
+</p>
+
+<hr/>
+
+<!-- PROJECT 6: MPOX HEALTHCARE CRISIS -->
+<h3 align="center">06. Mpox Healthcare Crisis Dashboard</h3>
+
+<p align="center">
+  <em>Power BI | Public Health Analytics | Geographic Distribution | Mortality & Vaccination Insights</em>
+</p>
+
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
+    <img
+      src="REPLACE_WITH_THE_RAW_GITHUB_URL_OF_YOUR_UPLOADED_MPOX_DASHBOARD_IMAGE"
+      width="95%"
+      alt="Mpox Healthcare Crisis Dashboard showing geographic and demographic analysis"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
+    <img src="https://img.shields.io/badge/VIEW%20INTERACTIVE%20DASHBOARD-C9A227?style=for-the-badge&logo=powerbi&logoColor=45474B" alt="View interactive Mpox dashboard"/>
+  </a>
+</p>
+
+<hr/>
+
+<!-- PROJECT 7: BMW ANALYTICS -->
+<h3 align="center">07. BMW Car Model Sales Analysis (2019–2023)</h3>
+
+<p align="center">
+  <em>Automotive Analytics | Sales Trends | Model Performance | Business Intelligence</em>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@adeyemi.da/bmw-car-model-sales-analysis-report-2019-2023-f812690be7b9">
+    <img
+      src="REPLACE_WITH_THE_RAW_GITHUB_URL_OF_THE_BMW_DASHBOARD_IMAGE"
+      width="95%"
+      alt="BMW Car Model Sales Analysis Dashboard, 2019–2023"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@adeyemi.da/bmw-car-model-sales-analysis-report-2019-2023-f812690be7b9">
+    <img src="https://img.shields.io/badge/READ%20BMW%20ANALYSIS-C9A227?style=for-the-badge&logo=medium&logoColor=45474B" alt="Read BMW Car Model Sales Analysis"/>
+  </a>
+</p>
+
+<hr/>
 
 <p align="center">
   <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
