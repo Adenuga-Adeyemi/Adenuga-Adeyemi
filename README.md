@@ -780,8 +780,6 @@ I am known for my enthusiasm for continuous learning and networking. Meeting new
 ## GitHub Statistics
 
 <div align="center">
-<!-- GitHub Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=Adenuga-Adeyemi&background=45474B&border=722F37&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=087F5B&dates=CCCCCC&hide_border=false" alt="GitHub Streak Stats" width="49%"/>
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adenuga-Adeyemi&layout=compact&bg_color=45474B&title_color=C9A227&text_color=FFFFFF&border_color=722F37&langs_count=8" alt="Top Languages" width="41%"/>
 <br/><br/>
