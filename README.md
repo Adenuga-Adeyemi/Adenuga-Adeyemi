@@ -564,26 +564,32 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <hr/>
 
-<!-- PROJECT 6: MPOX HEALTHCARE CRISIS -->
-<h3 align="center">06. Mpox Healthcare Crisis Dashboard</h3>
+<!-- PROJECT 6: MPOX TRENDS IN AFRICA -->
+<h3 align="center">06. Mpox Trends in Africa</h3>
 
 <p align="center">
-  <em>Power BI | Public Health Analytics | Geographic Distribution | Mortality & Vaccination Insights</em>
+  <em>Public Health Analytics | Disease Surveillance | Geographic Trends | Health Intelligence</em>
 </p>
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
     <img
-      src="REPLACE_WITH_THE_RAW_GITHUB_URL_OF_YOUR_UPLOADED_MPOX_DASHBOARD_IMAGE"
-      width="95%"
-      alt="Mpox Healthcare Crisis Dashboard showing geographic and demographic analysis"
+      src="https://img.shields.io/badge/MPox%20Trends%20in%20Africa-722F37?style=for-the-badge&logo=powerbi&logoColor=white"
+      alt="Mpox Trends in Africa Power BI Dashboard"
     />
   </a>
 </p>
 
 <p align="center">
+  <strong>Explore Mpox trends across Africa from January 2024 to August 2025.</strong>
+</p>
+
+<p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiZWUxZDUyNjctZDY4ZS00MzI3LWJlZWUtNGNmMjkwMGMxZDczIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
-    <img src="https://img.shields.io/badge/VIEW%20INTERACTIVE%20DASHBOARD-C9A227?style=for-the-badge&logo=powerbi&logoColor=45474B" alt="View interactive Mpox dashboard"/>
+    <img
+      src="https://img.shields.io/badge/OPEN%20INTERACTIVE%20DASHBOARD-087F5B?style=for-the-badge&logo=powerbi&logoColor=white"
+      alt="Open Interactive Mpox Dashboard"
+    />
   </a>
 </p>
 
