@@ -406,7 +406,7 @@ I’ve also created a detailed presentation and Excel dashboard that captures th
 
 <img src="https://img.shields.io/badge/Power%20BI-projects-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
--**Carvex Logistics** [View Project](https://medium.com/@adeyemi.da/carvex-logistics-supply-chain-performance-dashboard-2610ac31b8fd?postPublishedType=repub) 
+-**Carvex Logistics SUpply Chain Report** [View Project](https://medium.com/@adeyemi.da/carvex-logistics-supply-chain-performance-dashboard-2610ac31b8fd?postPublishedType=repub) 
 This is a supply chain performance report that turns operational data into clear executive insights on revenue, quality, product risk, and supplier reliability.
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMzBiZTY2M2UtMTM1OS00ZmNlLTk2NmUtMzU4Yzg3ODFiMWZmIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9"> <img src="https://img.shields.io/badge/Interact%20with%20dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </a>
 
