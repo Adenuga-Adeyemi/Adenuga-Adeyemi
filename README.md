@@ -364,6 +364,57 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Projects-E67E22?style=for-the-badge" />
 
+<h2 align="center">Featured Power BI Dashboards</h2>
+
+<p align="center">
+  <strong>
+    BUSINESS INTELLIGENCE · DATA STORYTELLING · ACTIONABLE INSIGHTS
+  </strong>
+</p>
+
+<div align="center">
+
+<a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
+  <img src="./Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-03.png"
+       width="90%"
+       alt="Carvex Logistics Executive Overview Dashboard"/>
+</a>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
+        <img src="./Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-04.png"
+             width="100%"
+             alt="Carvex Product Performance Dashboard"/>
+        <br/>
+        <strong>🟡 Product Performance</strong>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
+        <img src="./Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-05.png"
+             width="100%"
+             alt="Carvex Supplier Performance Dashboard"/>
+        <br/>
+        <strong>🟢 Supplier Performance</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzBiZTY2M2UtMTM1OS00ZmNlLTk2NmUtMzU4Yzg3ODFiMWZmIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
+  <img src="https://img.shields.io/badge/EXPLORE%20INTERACTIVE%20DASHBOARD-C9A227?style=for-the-badge&logo=powerbi&logoColor=45474B"
+       alt="Explore Interactive Power BI Dashboard"/>
+</a>
+
+</div>
+
+
 <!-- Excel Projects -->
 
 <img src="https://img.shields.io/badge/Excel-projects-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
