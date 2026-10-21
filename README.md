@@ -374,46 +374,54 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <div align="center">
 
-<a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
-  <img src="./Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-03.png"
-       width="90%"
-       alt="Carvex Logistics Executive Overview Dashboard"/>
-</a>
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
+    <img
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/main/Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-03.png"
+      width="90%"
+      alt="Carvex Logistics Executive Overview Dashboard"
+    />
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
-        <img src="./Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-04.png"
-             width="100%"
-             alt="Carvex Product Performance Dashboard"/>
-        <br/>
-        <strong>🟡 Product Performance</strong>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
-        <img src="./Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-05.png"
-             width="100%"
-             alt="Carvex Supplier Performance Dashboard"/>
-        <br/>
-        <strong>🟢 Supplier Performance</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
+          <img
+            src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/main/Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-04.png"
+            width="100%"
+            alt="Carvex Product Performance Dashboard"
+          />
+          <br/>
+          <strong>🟡 Product Performance</strong>
+        </a>
+      </td>
 
-<br/>
+      <td align="center" width="50%">
+        <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Carvex-Logistics-Supply-Chain-Performance">
+          <img
+            src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/main/Carvex-Logistics-Supply-Chain-Performance/Images/medium-dashboard-05.png"
+            width="100%"
+            alt="Carvex Supplier Performance Dashboard"
+          />
+          <br/>
+          <strong>🟢 Supplier Performance</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMzBiZTY2M2UtMTM1OS00ZmNlLTk2NmUtMzU4Yzg3ODFiMWZmIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
-  <img src="https://img.shields.io/badge/EXPLORE%20INTERACTIVE%20DASHBOARD-C9A227?style=for-the-badge&logo=powerbi&logoColor=45474B"
-       alt="Explore Interactive Power BI Dashboard"/>
-</a>
+  <br/>
+
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMzBiZTY2M2UtMTM1OS00ZmNlLTk2NmUtMzU4Yzg3ODFiMWZmIiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9">
+    <img
+      src="https://img.shields.io/badge/EXPLORE%20INTERACTIVE%20DASHBOARD-C9A227?style=for-the-badge&logo=powerbi&logoColor=45474B"
+      alt="Explore Interactive Power BI Dashboard"
+    />
+  </a>
 
 </div>
-
 
 <!-- Excel Projects -->
 
