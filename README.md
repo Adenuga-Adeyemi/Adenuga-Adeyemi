@@ -415,70 +415,136 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <hr/>
 
-<!-- PROJECT 2: RETAIL MARKET ANALYTICS -->
-<h3 align="center">02. Retail Market Analytics</h3>
+<!-- PROJECT 2: RETAIL PERFORMANCE MARKET INTELLIGENCE -->
+<h3 align="center">02. Retail Performance Market Intelligence</h3>
 
 <p align="center">
-  <strong>Microsoft Excel</strong> · Retail Performance · Market Trends · Sales Insights
+  <em>Power BI | Retail Analytics | Profitability | Data Quality | Market Intelligence</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
-    <img src="https://img.shields.io/badge/RETAIL%20MARKET%20ANALYTICS-087F5B?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Retail Market Analytics project"/>
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Retail-Performance-Market-Intelligence">
+    <img
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/main/Retail-Performance-Market-Intelligence/Images/02_dashboard_overview.png"
+      width="95%"
+      alt="Retail Performance Market Intelligence Dashboard Overview"
+    />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
-    <strong>Explore Retail Market Analytics →</strong>
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Retail-Performance-Market-Intelligence">
+    <img src="https://img.shields.io/badge/POWER%20BI-RETAIL%20INTELLIGENCE-087F5B?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI Retail Intelligence project"/>
   </a>
-</p>
-
-<hr/>
-
-<!-- PROJECT 3: RELIGION AFFILIATION -->
-<h3 align="center">03. Religion Affiliation Analysis</h3>
-
-<p align="center">
-  <strong>Data Analytics</strong> · Categorical Analysis · Patterns & Comparisons
-</p>
-
-<p align="center">
-  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
-    <img src="https://img.shields.io/badge/RELIGION%20AFFILIATION%20PROJECT-722F37?style=for-the-badge&logo=github&logoColor=white" alt="Religion Affiliation Analysis project"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
-    <strong>Explore Religion Affiliation Project →</strong>
+  &nbsp;
+  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio/tree/main/Retail-Performance-Market-Intelligence">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-45474B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Retail Performance project"/>
   </a>
 </p>
 
 <hr/>
 
-<!-- PROJECT 4: FOODMEAL IN EXCEL -->
-<h3 align="center">04. Foodmeal Sales & Performance Analysis</h3>
+<!-- PROJECT 3: GHANA RELIGIOUS AFFILIATION -->
+<h3 align="center">03. Ghana Religious Affiliation & Population Distribution</h3>
 
 <p align="center">
-  <strong>Microsoft Excel</strong> · Food & Meal Data · Sales Reporting · Performance Insights
+  <em>Microsoft Excel | Demographic Analytics | Population Distribution | Interactive Dashboard</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
-    <img src="https://img.shields.io/badge/FOODMEAL%20EXCEL%20PROJECT-C9A227?style=for-the-badge&logo=microsoftexcel&logoColor=45474B" alt="Foodmeal Excel project"/>
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/ghana-religious-affiliation-and-population-distribution">
+    <img
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Excel-Projects/main/ghana-religious-affiliation-and-population-distribution/assets/dashboard.png"
+      width="95%"
+      alt="Ghana Religious Affiliation and Population Distribution Excel Dashboard"
+    />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
-    <strong>Explore Foodmeal Project →</strong>
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/ghana-religious-affiliation-and-population-distribution">
+    <img
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Excel-Projects/main/ghana-religious-affiliation-and-population-distribution/assets/hero-dashboard.jpeg"
+      width="45%"
+      alt="Ghana Religious Affiliation Dashboard Preview"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/ghana-religious-affiliation-and-population-distribution">
+    <img
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Excel-Projects/main/ghana-religious-affiliation-and-population-distribution/assets/pivot-analysis.png"
+      width="45%"
+      alt="Ghana Religious Affiliation Pivot Table Analysis"
+    />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/ghana-religious-affiliation-and-population-distribution">
+    <img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-DEMOGRAPHIC%20ANALYTICS-087F5B?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Demographic Analytics project"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/ghana-religious-affiliation-and-population-distribution">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-45474B?style=for-the-badge&logo=github&logoColor=white" alt="Explore Ghana demographic project"/>
+  </a>
+</p>
+
+<hr/>
+
+<!-- PROJECT 4: FOODMEAL SALES AND ORDER PERFORMANCE -->
+<h3 align="center">04. FoodMeal Sales & Order Performance Report</h3>
+
+<p align="center">
+  <em>Microsoft Excel | Sales Analytics | Customer Insights | Order Performance</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/foodmeal-sales-and-order-performance-report">
+    <img
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Excel-Projects/main/foodmeal-sales-and-order-performance-report/Images/dashboard-overview.jpeg"
+      width="95%"
+      alt="FoodMeal Sales and Order Performance Excel Dashboard"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/foodmeal-sales-and-order-performance-report">
+    <img
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Excel-Projects/main/foodmeal-sales-and-order-performance-report/Images/data-preparation-01.png"
+      width="45%"
+      alt="FoodMeal Excel Data Preparation"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/foodmeal-sales-and-order-performance-report">
+    <img
+      src="https://raw.githubusercontent.com/Adenuga-Adeyemi/Excel-Projects/main/foodmeal-sales-and-order-performance-report/Images/data-preparation-02.png"
+      width="45%"
+      alt="FoodMeal Data Cleaning and Preparation"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/foodmeal-sales-and-order-performance-report">
+    <img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-FOODMEAL%20ANALYTICS-C9A227?style=for-the-badge&logo=microsoftexcel&logoColor=45474B" alt="FoodMeal Excel Analytics project"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects/tree/main/foodmeal-sales-and-order-performance-report">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECT-45474B?style=for-the-badge&logo=github&logoColor=white" alt="Explore FoodMeal project"/>
+  </a>
+</p>
+
+<hr/>
+
+<p align="center">
   <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-45474B?style=for-the-badge&logo=github&logoColor=white" alt="View all portfolio projects"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-C9A227?style=for-the-badge&logo=github&logoColor=45474B" alt="Explore all Business Intelligence portfolio projects"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Adenuga-Adeyemi/Excel-Projects">
+    <img src="https://img.shields.io/badge/VIEW%20EXCEL%20PROJECTS-087F5B?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="View all Excel projects"/>
   </a>
 </p>
 
