@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=19&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Turning+Data+into+Actionable+Business+Insights;Power+BI+Developer+%7C+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Microsoft+Fabric+%7C+Azure+%7C+AWS;Research+Analytics+%7C+Data+Storytelling;Building+Data+Solutions+for+Better+Decisions" alt="Professional Data Analytics Typing Animation"/>
 <br/><br/>
 <!-- Profile Views -->
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=PROFILE%20VIEWS&color=087F5B&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Adenuga-Adeyemi&label=PROFILE%20VIEWS&color=087F5B&style=for-the-badge" alt="GitHub Profile Views" />
 <br/><br/>
 <!-- Portfolio Link -->
 <a href="https://github.com/Adenuga-Adeyemi/Business-Intelligence-Portfolio">
