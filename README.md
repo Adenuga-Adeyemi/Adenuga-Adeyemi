@@ -364,7 +364,7 @@ My mission is to empower organizations and individuals to make data-driven decis
 
 <img src="https://img.shields.io/badge/Projects-E67E22?style=for-the-badge" />
 
-<h2 align="center">Featured Power BI Dashboards</h2>
+<h2 align="center">Featured Analytics Dashboards</h2>
 
 <p align="center">
   <strong>
